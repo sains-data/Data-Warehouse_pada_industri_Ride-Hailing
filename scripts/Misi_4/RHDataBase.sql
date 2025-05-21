@@ -1,0 +1,9 @@
+CREATE DATABASE RHDataWarehouse;
+
+USE RHDataWarehouse;
+
+CREATE SCHEMA bronze;
+
+CREATE SCHEMA silver;
+
+CREATE SCHEMA gold;
