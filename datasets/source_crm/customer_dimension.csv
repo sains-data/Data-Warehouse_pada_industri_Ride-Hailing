@@ -1,0 +1,1001 @@
+customer_id,full_name,email,phone,user_type,account_status
+1,Jagaraga Hasanah,jagaraga.hasanah@itera.ac.id,+62 (65) 681-8117,Mahasiswa,Tidak Aktif
+2,Alika Wahyuni,alika.wahyuni@itera.ac.id,+62-534-322-3556,Dosen,Aktif
+3,"R.A. Latika Hariyah, M.Pd","r.a..latika.hariyah,.m.pd@itera.ac.id",+62 (0621) 209 6292,Karyawan,Tidak Aktif
+4,Caturangga Dongoran,caturangga.dongoran@itera.ac.id,+62-0762-980-9398,Karyawan,Tidak Aktif
+5,"Icha Rahayu, S.Psi","icha.rahayu,.s.psi@itera.ac.id",085 857 6014,Dosen,Aktif
+6,"Ibrahim Ramadan, S.H.","ibrahim.ramadan,.s.h.@itera.ac.id",(087) 942-0952,Karyawan,Aktif
+7,Parman Saefullah,parman.saefullah@itera.ac.id,+62 (009) 348-9395,Mahasiswa,Tidak Aktif
+8,Mutia Budiman,mutia.budiman@itera.ac.id,+62 (073) 819-3061,Dosen,Aktif
+9,Shania Maryadi,shania.maryadi@itera.ac.id,(0807) 207-0332,Karyawan,Aktif
+10,Aris Mandala,aris.mandala@itera.ac.id,+62-114-160-8677,Dosen,Aktif
+11,Tami Hasanah,tami.hasanah@itera.ac.id,083 994 6236,Dosen,Aktif
+12,Wadi Rahimah,wadi.rahimah@itera.ac.id,+62 (0641) 330 6404,Mahasiswa,Aktif
+13,"T. Aris Dongoran, M.Pd","t..aris.dongoran,.m.pd@itera.ac.id",+62 (0360) 134-0195,Mahasiswa,Tidak Aktif
+14,Samiah Handayani,samiah.handayani@itera.ac.id,+62-021-095-8220,Dosen,Tidak Aktif
+15,"Oman Budiman, S.Psi","oman.budiman,.s.psi@itera.ac.id",086 266 7332,Mahasiswa,Tidak Aktif
+16,Ir. Pia Saputra,ir..pia.saputra@itera.ac.id,+62 (072) 699 8142,Dosen,Tidak Aktif
+17,"Puti Ratna Susanti, S.H.","puti.ratna.susanti,.s.h.@itera.ac.id",+62-067-651-1076,Dosen,Aktif
+18,Karya Mangunsong,karya.mangunsong@itera.ac.id,(0114) 189-2289,Karyawan,Aktif
+19,Cawisono Tamba,cawisono.tamba@itera.ac.id,(017) 517 4353,Mahasiswa,Aktif
+20,Vinsen Budiman,vinsen.budiman@itera.ac.id,+62-0818-127-0758,Karyawan,Tidak Aktif
+21,Farhunnisa Lailasari,farhunnisa.lailasari@itera.ac.id,+62-089-409-8812,Mahasiswa,Aktif
+22,Wardi Prastuti,wardi.prastuti@itera.ac.id,+62-0701-355-1414,Mahasiswa,Aktif
+23,Zelaya Farida,zelaya.farida@itera.ac.id,+62-512-599-2361,Mahasiswa,Aktif
+24,Galih Suartini,galih.suartini@itera.ac.id,+62-542-170-3827,Dosen,Tidak Aktif
+25,"Rahayu Wahyuni, S.Gz","rahayu.wahyuni,.s.gz@itera.ac.id",0875017066,Mahasiswa,Aktif
+26,Dagel Fujiati,dagel.fujiati@itera.ac.id,+62 (34) 434-6645,Karyawan,Aktif
+27,Ozy Santoso,ozy.santoso@itera.ac.id,+62-0820-615-1297,Karyawan,Tidak Aktif
+28,Gabriella Wijayanti,gabriella.wijayanti@itera.ac.id,083 607 5047,Karyawan,Tidak Aktif
+29,Cut Widya Hutagalung,cut.widya.hutagalung@itera.ac.id,+62 (049) 799-4865,Karyawan,Tidak Aktif
+30,Endah Mahendra,endah.mahendra@itera.ac.id,+62 (57) 696-3718,Karyawan,Tidak Aktif
+31,Cecep Hutagalung,cecep.hutagalung@itera.ac.id,+62-0109-473-5609,Dosen,Tidak Aktif
+32,Nabila Situmorang,nabila.situmorang@itera.ac.id,+62 (184) 925 4366,Mahasiswa,Aktif
+33,Adhiarja Santoso,adhiarja.santoso@itera.ac.id,+62 (081) 467 8480,Dosen,Tidak Aktif
+34,Silvia Usamah,silvia.usamah@itera.ac.id,+62 (0211) 793-8159,Dosen,Aktif
+35,"Eva Waskita, M.TI.","eva.waskita,.m.ti.@itera.ac.id",+62-065-629-6391,Karyawan,Tidak Aktif
+36,Kartika Adriansyah,kartika.adriansyah@itera.ac.id,+62 (0607) 943-7782,Karyawan,Tidak Aktif
+37,Dinda Putra,dinda.putra@itera.ac.id,+62 (0600) 619-3237,Karyawan,Tidak Aktif
+38,"R. Laila Saragih, S.Pd","r..laila.saragih,.s.pd@itera.ac.id",086 669 7189,Mahasiswa,Aktif
+39,"R.M. Anggabaya Melani, S.Gz","r.m..anggabaya.melani,.s.gz@itera.ac.id",+62-86-663-0113,Karyawan,Tidak Aktif
+40,"Harjasa Santoso, S.Pd","harjasa.santoso,.s.pd@itera.ac.id",082 979 8555,Mahasiswa,Aktif
+41,Indah Hidayanto,indah.hidayanto@itera.ac.id,(036) 048-0576,Dosen,Aktif
+42,Maida Mandala,maida.mandala@itera.ac.id,(0995) 401-6186,Karyawan,Aktif
+43,Mitra Marpaung,mitra.marpaung@itera.ac.id,+62 (0001) 875 0593,Karyawan,Aktif
+44,"Hj. Zizi Sitompul, S.H.","hj..zizi.sitompul,.s.h.@itera.ac.id",+62 (0894) 555-4124,Dosen,Aktif
+45,Ophelia Usada,ophelia.usada@itera.ac.id,+62-0335-267-7265,Karyawan,Tidak Aktif
+46,"Cawuk Usada, S.H.","cawuk.usada,.s.h.@itera.ac.id",+62-0447-489-4950,Dosen,Tidak Aktif
+47,"dr. Luthfi Winarno, M.Pd","dr..luthfi.winarno,.m.pd@itera.ac.id",(074) 860-8625,Mahasiswa,Aktif
+48,Tgk. Kamaria Wahyudin,tgk..kamaria.wahyudin@itera.ac.id,(019) 221-1723,Dosen,Aktif
+49,Aswani Purwanti,aswani.purwanti@itera.ac.id,0877941615,Karyawan,Aktif
+50,Syahrini Handayani,syahrini.handayani@itera.ac.id,(0948) 909 2107,Karyawan,Aktif
+51,Puti Ulya Simanjuntak,puti.ulya.simanjuntak@itera.ac.id,+62-90-881-8115,Mahasiswa,Tidak Aktif
+52,"dr. Nyoman Pudjiastuti, S.IP","dr..nyoman.pudjiastuti,.s.ip@itera.ac.id",+62 (0095) 072-0608,Karyawan,Aktif
+53,"Kuncara Sirait, S.T.","kuncara.sirait,.s.t.@itera.ac.id",(0107) 794-3608,Dosen,Aktif
+54,Umi Pratiwi,umi.pratiwi@itera.ac.id,+62-14-260-2629,Karyawan,Tidak Aktif
+55,Galang Prasetya,galang.prasetya@itera.ac.id,+62 (028) 085 1994,Karyawan,Aktif
+56,Hj. Uli Nababan,hj..uli.nababan@itera.ac.id,+62 (069) 505-6089,Karyawan,Tidak Aktif
+57,"Opan Sihotang, S.H.","opan.sihotang,.s.h.@itera.ac.id",+62 (482) 187 6100,Mahasiswa,Aktif
+58,Salwa Nuraini,salwa.nuraini@itera.ac.id,+62 (0888) 827 0219,Dosen,Aktif
+59,Gading Purwanti,gading.purwanti@itera.ac.id,+62-48-730-5337,Mahasiswa,Aktif
+60,Balijan Haryanti,balijan.haryanti@itera.ac.id,+62-072-677-6794,Mahasiswa,Aktif
+61,"Jumari Haryanto, S.T.","jumari.haryanto,.s.t.@itera.ac.id",+62 (631) 831-8053,Mahasiswa,Aktif
+62,Lukita Wacana,lukita.wacana@itera.ac.id,(0804) 595-1105,Mahasiswa,Aktif
+63,"Cayadi Laksmiwati, S.Ked","cayadi.laksmiwati,.s.ked@itera.ac.id",(0417) 063-8142,Mahasiswa,Tidak Aktif
+64,Puti Ulya Suartini,puti.ulya.suartini@itera.ac.id,(0930) 819 5906,Mahasiswa,Tidak Aktif
+65,Mahfud Sihombing,mahfud.sihombing@itera.ac.id,+62-0904-650-2454,Mahasiswa,Tidak Aktif
+66,"Ir. Hani Laksita, S.Sos","ir..hani.laksita,.s.sos@itera.ac.id",+62 (281) 356-7102,Dosen,Tidak Aktif
+67,"Caket Namaga, S.E.","caket.namaga,.s.e.@itera.ac.id",+62 (003) 196 8798,Dosen,Tidak Aktif
+68,Samiah Mandasari,samiah.mandasari@itera.ac.id,+62 (66) 810 3462,Karyawan,Aktif
+69,Gilang Winarno,gilang.winarno@itera.ac.id,+62-352-935-4256,Karyawan,Tidak Aktif
+70,Dewi Hartati,dewi.hartati@itera.ac.id,(0662) 371-5367,Dosen,Aktif
+71,Septi Mustofa,septi.mustofa@itera.ac.id,+62-088-848-9028,Mahasiswa,Tidak Aktif
+72,Drs. Pandu Nuraini,drs..pandu.nuraini@itera.ac.id,0812074797,Mahasiswa,Tidak Aktif
+73,Gawati Santoso,gawati.santoso@itera.ac.id,+62 (0429) 981-3169,Dosen,Tidak Aktif
+74,"Dinda Latupono, S.E.I","dinda.latupono,.s.e.i@itera.ac.id",0872414402,Karyawan,Aktif
+75,"Dr. Karsa Hutagalung, M.Ak","dr..karsa.hutagalung,.m.ak@itera.ac.id",0838685184,Mahasiswa,Aktif
+76,Kanda Wijaya,kanda.wijaya@itera.ac.id,(0897) 102 0433,Mahasiswa,Tidak Aktif
+77,Gatot Nababan,gatot.nababan@itera.ac.id,+62 (104) 277 9342,Dosen,Aktif
+78,Danang Hutagalung,danang.hutagalung@itera.ac.id,+62-342-372-0911,Dosen,Tidak Aktif
+79,Jasmani Wasita,jasmani.wasita@itera.ac.id,+62-048-391-3070,Mahasiswa,Aktif
+80,Lukita Farida,lukita.farida@itera.ac.id,(0937) 022-8334,Karyawan,Tidak Aktif
+81,Bakianto Kuswoyo,bakianto.kuswoyo@itera.ac.id,085 765 8389,Mahasiswa,Tidak Aktif
+82,Viktor Zulkarnain,viktor.zulkarnain@itera.ac.id,(018) 653 0582,Mahasiswa,Aktif
+83,Kamidin Prabowo,kamidin.prabowo@itera.ac.id,+62-001-643-2184,Mahasiswa,Tidak Aktif
+84,Samiah Pangestu,samiah.pangestu@itera.ac.id,+62-043-170-9670,Karyawan,Aktif
+85,T. Slamet Rajasa,t..slamet.rajasa@itera.ac.id,+62 (066) 275 4485,Mahasiswa,Tidak Aktif
+86,Luis Suryono,luis.suryono@itera.ac.id,+62 (0687) 027-5742,Dosen,Tidak Aktif
+87,Padmi Latupono,padmi.latupono@itera.ac.id,+62 (64) 245 9129,Mahasiswa,Aktif
+88,Liman Mandala,liman.mandala@itera.ac.id,+62 (0166) 363-0341,Mahasiswa,Aktif
+89,Galiono Prastuti,galiono.prastuti@itera.ac.id,(0841) 991-4484,Karyawan,Tidak Aktif
+90,Endra Hidayat,endra.hidayat@itera.ac.id,+62-0000-536-4399,Karyawan,Aktif
+91,"Limar Mayasari, S.Gz","limar.mayasari,.s.gz@itera.ac.id",+62-083-498-7942,Mahasiswa,Aktif
+92,"H. Ikhsan Lestari, S.Psi","h..ikhsan.lestari,.s.psi@itera.ac.id",+62 (0403) 171 5410,Karyawan,Aktif
+93,Siska Prasetya,siska.prasetya@itera.ac.id,(0292) 646-0004,Karyawan,Tidak Aktif
+94,Rachel Gunawan,rachel.gunawan@itera.ac.id,+62-0906-529-1308,Karyawan,Tidak Aktif
+95,"Hasna Prastuti, M.Ak","hasna.prastuti,.m.ak@itera.ac.id",+62 (013) 746 7035,Mahasiswa,Tidak Aktif
+96,Estiono Wulandari,estiono.wulandari@itera.ac.id,+62 (358) 707 6755,Dosen,Tidak Aktif
+97,Shania Safitri,shania.safitri@itera.ac.id,+62 (79) 347-5402,Mahasiswa,Aktif
+98,Dalima Situmorang,dalima.situmorang@itera.ac.id,+62-001-766-2812,Mahasiswa,Tidak Aktif
+99,Ir. Lukman Purnawati,ir..lukman.purnawati@itera.ac.id,+62-028-368-7272,Mahasiswa,Tidak Aktif
+100,Paiman Wastuti,paiman.wastuti@itera.ac.id,084 445 0535,Karyawan,Aktif
+101,Tgk. Ajeng Safitri,tgk..ajeng.safitri@itera.ac.id,+62-462-430-6304,Dosen,Aktif
+102,"Cut Eli Hastuti, M.Pd","cut.eli.hastuti,.m.pd@itera.ac.id",0889015624,Karyawan,Tidak Aktif
+103,Sabri Pudjiastuti,sabri.pudjiastuti@itera.ac.id,0800133012,Mahasiswa,Aktif
+104,Cindy Fujiati,cindy.fujiati@itera.ac.id,+62 (612) 822 4350,Karyawan,Aktif
+105,Jinawi Uyainah,jinawi.uyainah@itera.ac.id,+62 (546) 941-6640,Mahasiswa,Tidak Aktif
+106,Yahya Salahudin,yahya.salahudin@itera.ac.id,+62-28-182-4973,Dosen,Tidak Aktif
+107,"Mustika Saragih, M.M.","mustika.saragih,.m.m.@itera.ac.id",(011) 949 0266,Karyawan,Tidak Aktif
+108,Martana Prasasta,martana.prasasta@itera.ac.id,+62 (53) 772-3551,Mahasiswa,Aktif
+109,"drg. Yuni Haryanti, M.TI.","drg..yuni.haryanti,.m.ti.@itera.ac.id",(009) 021 4541,Mahasiswa,Tidak Aktif
+110,Yoga Mandala,yoga.mandala@itera.ac.id,(0079) 243 1498,Dosen,Aktif
+111,"Vanesa Winarsih, S.Gz","vanesa.winarsih,.s.gz@itera.ac.id",+62 (38) 486 6850,Karyawan,Aktif
+112,Winda Hutapea,winda.hutapea@itera.ac.id,+62 (190) 431-3368,Dosen,Aktif
+113,Unjani Winarno,unjani.winarno@itera.ac.id,+62 (087) 616-7395,Karyawan,Aktif
+114,"dr. Ilsa Permata, S.Psi","dr..ilsa.permata,.s.psi@itera.ac.id",+62-93-443-6318,Dosen,Aktif
+115,Hartana Nababan,hartana.nababan@itera.ac.id,+62-034-881-2281,Karyawan,Aktif
+116,Tari Wahyudin,tari.wahyudin@itera.ac.id,+62 (318) 731-0794,Mahasiswa,Aktif
+117,"H. Kasusra Firmansyah, S.Sos","h..kasusra.firmansyah,.s.sos@itera.ac.id",085 123 9679,Mahasiswa,Tidak Aktif
+118,Hesti Maheswara,hesti.maheswara@itera.ac.id,(066) 570-8615,Karyawan,Tidak Aktif
+119,"Usman Pangestu, M.Pd","usman.pangestu,.m.pd@itera.ac.id",+62 (879) 054 0450,Karyawan,Aktif
+120,R. Nugraha Firmansyah,r..nugraha.firmansyah@itera.ac.id,+62 (392) 136-8950,Karyawan,Tidak Aktif
+121,"Mala Rajasa, M.M.","mala.rajasa,.m.m.@itera.ac.id",(025) 130-0582,Dosen,Aktif
+122,Rahmi Lestari,rahmi.lestari@itera.ac.id,+62-026-661-0055,Karyawan,Tidak Aktif
+123,"R. Karman Utama, S.Sos","r..karman.utama,.s.sos@itera.ac.id",+62 (81) 901-1393,Dosen,Aktif
+124,Embuh Agustina,embuh.agustina@itera.ac.id,+62-0024-846-0655,Karyawan,Tidak Aktif
+125,Umay Tamba,umay.tamba@itera.ac.id,(044) 524 9914,Mahasiswa,Aktif
+126,Restu Uwais,restu.uwais@itera.ac.id,(041) 764 9269,Mahasiswa,Aktif
+127,Lili Iswahyudi,lili.iswahyudi@itera.ac.id,+62-734-015-3247,Karyawan,Aktif
+128,Gada Tampubolon,gada.tampubolon@itera.ac.id,(0012) 543 6650,Karyawan,Aktif
+129,Kadir Mansur,kadir.mansur@itera.ac.id,+62 (82) 195 1502,Mahasiswa,Tidak Aktif
+130,Gaiman Sudiati,gaiman.sudiati@itera.ac.id,(0072) 819-2971,Karyawan,Aktif
+131,"Puti Shania Budiyanto, S.Pt","puti.shania.budiyanto,.s.pt@itera.ac.id",+62-045-702-1882,Karyawan,Tidak Aktif
+132,Dr. Opung Hardiansyah,dr..opung.hardiansyah@itera.ac.id,(0244) 656-7924,Dosen,Tidak Aktif
+133,Jaiman Nasyiah,jaiman.nasyiah@itera.ac.id,(093) 200 7846,Mahasiswa,Tidak Aktif
+134,Drs. Ulva Winarsih,drs..ulva.winarsih@itera.ac.id,081 312 9488,Mahasiswa,Tidak Aktif
+135,"Yunita Maheswara, S.Kom","yunita.maheswara,.s.kom@itera.ac.id",+62 (01) 907 8431,Mahasiswa,Aktif
+136,Michelle Safitri,michelle.safitri@itera.ac.id,087 599 3813,Karyawan,Aktif
+137,R. Gabriella Saptono,r..gabriella.saptono@itera.ac.id,+62-058-745-2781,Mahasiswa,Aktif
+138,"Shakila Budiman, S.Sos","shakila.budiman,.s.sos@itera.ac.id",+62 (0074) 277 1150,Dosen,Aktif
+139,"dr. Suci Irawan, M.Farm","dr..suci.irawan,.m.farm@itera.ac.id",(0080) 693-2868,Mahasiswa,Aktif
+140,Michelle Adriansyah,michelle.adriansyah@itera.ac.id,+62 (0055) 702-0615,Dosen,Tidak Aktif
+141,Oliva Rahimah,oliva.rahimah@itera.ac.id,+62 (070) 967-9746,Mahasiswa,Tidak Aktif
+142,Balapati Mardhiyah,balapati.mardhiyah@itera.ac.id,+62-0806-578-6029,Mahasiswa,Tidak Aktif
+143,"KH. Jati Pradipta, S.E.I","kh..jati.pradipta,.s.e.i@itera.ac.id",+62-0318-858-3609,Dosen,Tidak Aktif
+144,Salwa Permadi,salwa.permadi@itera.ac.id,+62 (49) 583 6119,Karyawan,Aktif
+145,Hj. Ira Situmorang,hj..ira.situmorang@itera.ac.id,+62-326-277-0039,Dosen,Aktif
+146,Purwanto Mandala,purwanto.mandala@itera.ac.id,+62 (0472) 757-8544,Mahasiswa,Tidak Aktif
+147,"T. Gandewa Marpaung, S.Gz","t..gandewa.marpaung,.s.gz@itera.ac.id",+62 (422) 397-9515,Karyawan,Aktif
+148,Lembah Halimah,lembah.halimah@itera.ac.id,(020) 230 2668,Mahasiswa,Tidak Aktif
+149,dr. Indah Waluyo,dr..indah.waluyo@itera.ac.id,+62-995-338-3695,Mahasiswa,Aktif
+150,"Drs. Natalia Rajasa, M.Ak","drs..natalia.rajasa,.m.ak@itera.ac.id",+62 (075) 993 9895,Dosen,Aktif
+151,Hj. Ami Saefullah,hj..ami.saefullah@itera.ac.id,(093) 440-6344,Dosen,Tidak Aktif
+152,Hafshah Thamrin,hafshah.thamrin@itera.ac.id,+62 (657) 779 9618,Mahasiswa,Aktif
+153,"Talia Jailani, S.Ked","talia.jailani,.s.ked@itera.ac.id",+62 (0368) 325 2807,Dosen,Aktif
+154,Damar Rahimah,damar.rahimah@itera.ac.id,+62 (09) 896 6172,Mahasiswa,Aktif
+155,"R.A. Natalia Widodo, M.Pd","r.a..natalia.widodo,.m.pd@itera.ac.id",+62 (982) 744-7639,Dosen,Aktif
+156,Keisha Marpaung,keisha.marpaung@itera.ac.id,0897375335,Karyawan,Tidak Aktif
+157,T. Wardi Farida,t..wardi.farida@itera.ac.id,+62 (012) 448-3800,Dosen,Aktif
+158,Nadine Prastuti,nadine.prastuti@itera.ac.id,+62 (0931) 831 4228,Mahasiswa,Tidak Aktif
+159,"Dt. Chandra Pertiwi, S.H.","dt..chandra.pertiwi,.s.h.@itera.ac.id",+62-0548-286-0982,Mahasiswa,Tidak Aktif
+160,Ir. Nilam Dongoran,ir..nilam.dongoran@itera.ac.id,(0892) 334-2342,Dosen,Aktif
+161,Diana Suryatmi,diana.suryatmi@itera.ac.id,+62-048-599-8779,Mahasiswa,Tidak Aktif
+162,Ir. Diana Wastuti,ir..diana.wastuti@itera.ac.id,+62 (425) 414 0233,Mahasiswa,Aktif
+163,Jaya Astuti,jaya.astuti@itera.ac.id,+62-0147-575-6840,Dosen,Tidak Aktif
+164,Prayoga Firgantoro,prayoga.firgantoro@itera.ac.id,+62-25-598-0002,Mahasiswa,Tidak Aktif
+165,Langgeng Safitri,langgeng.safitri@itera.ac.id,(083) 124 3940,Dosen,Tidak Aktif
+166,Humaira Anggriawan,humaira.anggriawan@itera.ac.id,+62 (428) 154 5057,Dosen,Tidak Aktif
+167,"Wage Lestari, S.Gz","wage.lestari,.s.gz@itera.ac.id",(0615) 738-3860,Mahasiswa,Tidak Aktif
+168,Puji Safitri,puji.safitri@itera.ac.id,+62 (289) 769 3330,Mahasiswa,Aktif
+169,Mila Kuswoyo,mila.kuswoyo@itera.ac.id,(076) 403 3341,Mahasiswa,Tidak Aktif
+170,Genta Hutagalung,genta.hutagalung@itera.ac.id,+62 (0214) 773-1161,Mahasiswa,Tidak Aktif
+171,"Yessi Putra, S.Ked","yessi.putra,.s.ked@itera.ac.id",(0910) 632 8645,Mahasiswa,Aktif
+172,Ade Maulana,ade.maulana@itera.ac.id,+62 (067) 133-3877,Karyawan,Tidak Aktif
+173,"R.M. Galur Mansur, S.IP","r.m..galur.mansur,.s.ip@itera.ac.id",+62 (009) 993-1954,Dosen,Aktif
+174,"R.A. Puti Kuswandari, S.Ked","r.a..puti.kuswandari,.s.ked@itera.ac.id",+62 (090) 334 6851,Karyawan,Aktif
+175,Padmi Wulandari,padmi.wulandari@itera.ac.id,+62 (0875) 417-0530,Dosen,Aktif
+176,Paiman Latupono,paiman.latupono@itera.ac.id,0844023224,Dosen,Tidak Aktif
+177,"Galih Simbolon, S.E.I","galih.simbolon,.s.e.i@itera.ac.id",+62 (515) 165-5616,Mahasiswa,Tidak Aktif
+178,Johan Hutagalung,johan.hutagalung@itera.ac.id,+62 (799) 671 9737,Dosen,Aktif
+179,Mala Nashiruddin,mala.nashiruddin@itera.ac.id,083 908 6515,Mahasiswa,Tidak Aktif
+180,"KH. Balijan Simanjuntak, M.Pd","kh..balijan.simanjuntak,.m.pd@itera.ac.id",0898588046,Mahasiswa,Tidak Aktif
+181,Maria Oktaviani,maria.oktaviani@itera.ac.id,+62 (53) 987-8362,Karyawan,Tidak Aktif
+182,Jamalia Salahudin,jamalia.salahudin@itera.ac.id,+62 (09) 608-1320,Karyawan,Tidak Aktif
+183,"Umar Widodo, M.M.","umar.widodo,.m.m.@itera.ac.id",088 747 5351,Karyawan,Tidak Aktif
+184,Rini Thamrin,rini.thamrin@itera.ac.id,+62 (600) 675 1085,Dosen,Tidak Aktif
+185,Elvina Setiawan,elvina.setiawan@itera.ac.id,081 996 8922,Mahasiswa,Aktif
+186,Setya Widiastuti,setya.widiastuti@itera.ac.id,+62 (84) 961 6447,Karyawan,Aktif
+187,Asman Prayoga,asman.prayoga@itera.ac.id,+62 (041) 103-0726,Dosen,Tidak Aktif
+188,"Tgk. Ika Prastuti, M.M.","tgk..ika.prastuti,.m.m.@itera.ac.id",+62 (0675) 089 4984,Dosen,Tidak Aktif
+189,Jaya Megantara,jaya.megantara@itera.ac.id,(060) 253 0282,Mahasiswa,Tidak Aktif
+190,"Cut Oliva Saputra, S.Sos","cut.oliva.saputra,.s.sos@itera.ac.id",+62-0449-445-0511,Karyawan,Aktif
+191,Tami Mahendra,tami.mahendra@itera.ac.id,+62-0162-054-9574,Karyawan,Aktif
+192,drg. Gading Yulianti,drg..gading.yulianti@itera.ac.id,+62 (65) 787 4134,Mahasiswa,Aktif
+193,"Nadine Sudiati, S.Gz","nadine.sudiati,.s.gz@itera.ac.id",+62 (075) 569-7088,Mahasiswa,Aktif
+194,Puti Tari Yuniar,puti.tari.yuniar@itera.ac.id,(078) 005 9915,Mahasiswa,Tidak Aktif
+195,Diana Prayoga,diana.prayoga@itera.ac.id,+62 (058) 387-6754,Dosen,Aktif
+196,"R. Sakura Samosir, S.Sos","r..sakura.samosir,.s.sos@itera.ac.id",+62-136-052-9057,Dosen,Tidak Aktif
+197,Genta Laksita,genta.laksita@itera.ac.id,(0079) 451 4480,Karyawan,Aktif
+198,Leo Maulana,leo.maulana@itera.ac.id,+62-72-778-1142,Karyawan,Tidak Aktif
+199,"Tgk. Aurora Pradana, S.Kom","tgk..aurora.pradana,.s.kom@itera.ac.id",+62 (63) 143 4614,Dosen,Tidak Aktif
+200,"Mursinin Namaga, S.T.","mursinin.namaga,.s.t.@itera.ac.id",+62-0412-356-6655,Karyawan,Tidak Aktif
+201,Marsudi Yulianti,marsudi.yulianti@itera.ac.id,+62-0861-796-7381,Karyawan,Aktif
+202,Ami Damanik,ami.damanik@itera.ac.id,(041) 470 1354,Karyawan,Tidak Aktif
+203,Jarwa Halimah,jarwa.halimah@itera.ac.id,(0172) 776 9537,Karyawan,Aktif
+204,Kenes Pratama,kenes.pratama@itera.ac.id,+62 (053) 011-8177,Dosen,Tidak Aktif
+205,Natalia Saefullah,natalia.saefullah@itera.ac.id,0825884073,Mahasiswa,Tidak Aktif
+206,Cakrabirawa Manullang,cakrabirawa.manullang@itera.ac.id,087 525 2686,Dosen,Aktif
+207,Putri Mandala,putri.mandala@itera.ac.id,(016) 201 2840,Mahasiswa,Tidak Aktif
+208,"Puspa Gunarto, M.M.","puspa.gunarto,.m.m.@itera.ac.id",+62 (13) 977-6742,Mahasiswa,Aktif
+209,Kadir Mardhiyah,kadir.mardhiyah@itera.ac.id,+62-0270-006-4458,Dosen,Tidak Aktif
+210,T. Candrakanta Wacana,t..candrakanta.wacana@itera.ac.id,+62 (770) 971-3152,Dosen,Tidak Aktif
+211,Alika Hutapea,alika.hutapea@itera.ac.id,+62 (047) 654-5851,Karyawan,Aktif
+212,Aslijan Ramadan,aslijan.ramadan@itera.ac.id,+62-55-280-3231,Dosen,Tidak Aktif
+213,Cut Rachel Dabukke,cut.rachel.dabukke@itera.ac.id,+62 (62) 647 7129,Mahasiswa,Aktif
+214,Ir. Ratna Wulandari,ir..ratna.wulandari@itera.ac.id,+62 (43) 781 5234,Mahasiswa,Tidak Aktif
+215,Suci Kuswoyo,suci.kuswoyo@itera.ac.id,+62-059-762-4750,Karyawan,Aktif
+216,Makuta Prasasta,makuta.prasasta@itera.ac.id,+62 (063) 161-5055,Karyawan,Aktif
+217,Suci Laksmiwati,suci.laksmiwati@itera.ac.id,+62 (383) 580-2047,Dosen,Aktif
+218,Usman Pratiwi,usman.pratiwi@itera.ac.id,+62-551-344-7088,Dosen,Aktif
+219,"Cut Nurul Latupono, M.M.","cut.nurul.latupono,.m.m.@itera.ac.id",(085) 532 6643,Dosen,Tidak Aktif
+220,"Intan Hastuti, S.Gz","intan.hastuti,.s.gz@itera.ac.id",(0508) 893-3229,Dosen,Aktif
+221,Siti Wulandari,siti.wulandari@itera.ac.id,+62 (63) 255 1269,Karyawan,Tidak Aktif
+222,Farhunnisa Wibowo,farhunnisa.wibowo@itera.ac.id,+62 (192) 242 1335,Mahasiswa,Aktif
+223,"Pandu Wastuti, S.Pt","pandu.wastuti,.s.pt@itera.ac.id",+62 (0388) 547-4448,Dosen,Tidak Aktif
+224,Drs. Galih Hutagalung,drs..galih.hutagalung@itera.ac.id,+62 (24) 700-7542,Mahasiswa,Tidak Aktif
+225,Najam Irawan,najam.irawan@itera.ac.id,+62-628-955-2254,Dosen,Aktif
+226,Keisha Saputra,keisha.saputra@itera.ac.id,+62 (96) 350-9003,Dosen,Tidak Aktif
+227,Imam Saputra,imam.saputra@itera.ac.id,+62-0636-544-4462,Mahasiswa,Tidak Aktif
+228,Fathonah Megantara,fathonah.megantara@itera.ac.id,+62 (378) 962-6794,Dosen,Aktif
+229,"KH. Harto Prayoga, S.Kom","kh..harto.prayoga,.s.kom@itera.ac.id",+62-003-470-8361,Dosen,Aktif
+230,"R.M. Bambang Januar, M.TI.","r.m..bambang.januar,.m.ti.@itera.ac.id",+62 (79) 317-9316,Mahasiswa,Tidak Aktif
+231,"Tgk. Gantar Puspasari, S.Psi","tgk..gantar.puspasari,.s.psi@itera.ac.id",+62 (0229) 133 4877,Dosen,Aktif
+232,Hj. Zulfa Nababan,hj..zulfa.nababan@itera.ac.id,+62 (27) 680-5375,Mahasiswa,Tidak Aktif
+233,"Febi Tarihoran, S.H.","febi.tarihoran,.s.h.@itera.ac.id",+62 (082) 685-7660,Mahasiswa,Aktif
+234,"Tgk. Lintang Winarno, S.Sos","tgk..lintang.winarno,.s.sos@itera.ac.id",+62 (0446) 690 2119,Mahasiswa,Aktif
+235,"R. Drajat Lazuardi, S.E.","r..drajat.lazuardi,.s.e.@itera.ac.id",(0052) 555-3603,Dosen,Aktif
+236,Asmuni Pradipta,asmuni.pradipta@itera.ac.id,+62 (0441) 769-5918,Dosen,Tidak Aktif
+237,Hartaka Wahyudin,hartaka.wahyudin@itera.ac.id,+62 (0694) 332-6775,Dosen,Tidak Aktif
+238,"R. Karma Wastuti, S.Kom","r..karma.wastuti,.s.kom@itera.ac.id",+62 (971) 552-3404,Dosen,Tidak Aktif
+239,"Hj. Wani Safitri, M.Ak","hj..wani.safitri,.m.ak@itera.ac.id",(0359) 270-0059,Karyawan,Tidak Aktif
+240,Zelaya Dongoran,zelaya.dongoran@itera.ac.id,+62 (26) 240-1130,Mahasiswa,Aktif
+241,dr. Prabowo Prasasta,dr..prabowo.prasasta@itera.ac.id,+62 (099) 298 2485,Mahasiswa,Aktif
+242,Tgk. Lalita Palastri,tgk..lalita.palastri@itera.ac.id,+62 (0577) 274-9298,Mahasiswa,Tidak Aktif
+243,Jamil Mansur,jamil.mansur@itera.ac.id,+62 (43) 611-7297,Dosen,Tidak Aktif
+244,Bakiono Sihombing,bakiono.sihombing@itera.ac.id,+62 (045) 734-0572,Mahasiswa,Aktif
+245,Tgk. Jatmiko Nashiruddin,tgk..jatmiko.nashiruddin@itera.ac.id,(075) 193-6057,Mahasiswa,Aktif
+246,Edi Puspasari,edi.puspasari@itera.ac.id,+62-052-292-6298,Mahasiswa,Tidak Aktif
+247,"Reksa Hartati, S.Farm","reksa.hartati,.s.farm@itera.ac.id",+62 (0561) 558 8542,Dosen,Tidak Aktif
+248,"Jasmin Mandasari, M.Pd","jasmin.mandasari,.m.pd@itera.ac.id",(0772) 407 3936,Karyawan,Aktif
+249,Ulva Laksita,ulva.laksita@itera.ac.id,(0953) 014-0529,Karyawan,Tidak Aktif
+250,Ganda Nashiruddin,ganda.nashiruddin@itera.ac.id,+62 (12) 836 7695,Karyawan,Tidak Aktif
+251,"Aris Wastuti, S.Psi","aris.wastuti,.s.psi@itera.ac.id",+62 (0741) 107 4707,Karyawan,Tidak Aktif
+252,Ilsa Agustina,ilsa.agustina@itera.ac.id,(097) 754-9919,Dosen,Tidak Aktif
+253,Padma Yolanda,padma.yolanda@itera.ac.id,(055) 448 1823,Dosen,Aktif
+254,Unjani Palastri,unjani.palastri@itera.ac.id,+62 (78) 425 8203,Dosen,Aktif
+255,Panca Najmudin,panca.najmudin@itera.ac.id,+62-843-411-6500,Dosen,Aktif
+256,Cut Rina Permata,cut.rina.permata@itera.ac.id,(081) 216 9240,Dosen,Aktif
+257,Irfan Safitri,irfan.safitri@itera.ac.id,+62 (002) 877-1101,Karyawan,Tidak Aktif
+258,"Drs. Ganep Agustina, S.Farm","drs..ganep.agustina,.s.farm@itera.ac.id",(050) 981-7363,Karyawan,Tidak Aktif
+259,"KH. Karma Hardiansyah, M.TI.","kh..karma.hardiansyah,.m.ti.@itera.ac.id",+62 (04) 965-8373,Dosen,Tidak Aktif
+260,dr. Farah Prasasta,dr..farah.prasasta@itera.ac.id,+62 (064) 075-2437,Dosen,Aktif
+261,Bambang Farida,bambang.farida@itera.ac.id,087 441 1647,Karyawan,Tidak Aktif
+262,Ghani Hakim,ghani.hakim@itera.ac.id,+62 (0730) 311-5514,Karyawan,Tidak Aktif
+263,Utama Agustina,utama.agustina@itera.ac.id,+62-062-150-7073,Dosen,Aktif
+264,Uda Kuswoyo,uda.kuswoyo@itera.ac.id,(0540) 205-5643,Mahasiswa,Tidak Aktif
+265,Samiah Rahayu,samiah.rahayu@itera.ac.id,(089) 957 7391,Mahasiswa,Tidak Aktif
+266,Kamaria Hutapea,kamaria.hutapea@itera.ac.id,+62 (630) 835 8762,Mahasiswa,Aktif
+267,"Leo Uyainah, S.Gz","leo.uyainah,.s.gz@itera.ac.id",+62-874-390-1302,Dosen,Aktif
+268,Emas Rajata,emas.rajata@itera.ac.id,+62-077-801-4310,Mahasiswa,Aktif
+269,Kadir Sirait,kadir.sirait@itera.ac.id,+62-021-603-0849,Karyawan,Tidak Aktif
+270,T. Umaya Hutasoit,t..umaya.hutasoit@itera.ac.id,(0982) 591 7558,Dosen,Aktif
+271,"Najwa Wahyuni, M.Farm","najwa.wahyuni,.m.farm@itera.ac.id",084 749 8153,Dosen,Aktif
+272,"Jati Kurniawan, S.Kom","jati.kurniawan,.s.kom@itera.ac.id",+62-45-724-1537,Karyawan,Tidak Aktif
+273,Cornelia Maheswara,cornelia.maheswara@itera.ac.id,(058) 465 1641,Karyawan,Aktif
+274,R. Padmi Prasetya,r..padmi.prasetya@itera.ac.id,+62 (52) 352 1325,Karyawan,Tidak Aktif
+275,Bakianto Suwarno,bakianto.suwarno@itera.ac.id,+62 (32) 952-9291,Karyawan,Tidak Aktif
+276,T. Upik Lailasari,t..upik.lailasari@itera.ac.id,(065) 845-9515,Dosen,Tidak Aktif
+277,Maria Kuswoyo,maria.kuswoyo@itera.ac.id,+62 (23) 348-2641,Dosen,Tidak Aktif
+278,Laksana Hakim,laksana.hakim@itera.ac.id,(0291) 593-7209,Mahasiswa,Aktif
+279,"drg. Ghaliyati Suwarno, S.Gz","drg..ghaliyati.suwarno,.s.gz@itera.ac.id",+62 (0432) 067 4609,Karyawan,Tidak Aktif
+280,Hadi Permata,hadi.permata@itera.ac.id,+62-51-309-3586,Dosen,Aktif
+281,"Cut Gawati Andriani, M.M.","cut.gawati.andriani,.m.m.@itera.ac.id",+62-963-812-8683,Mahasiswa,Aktif
+282,Salwa Padmasari,salwa.padmasari@itera.ac.id,+62-63-884-3605,Dosen,Aktif
+283,Patricia Kurniawan,patricia.kurniawan@itera.ac.id,+62 (088) 377 7308,Dosen,Tidak Aktif
+284,Sutan Wisnu Nashiruddin,sutan.wisnu.nashiruddin@itera.ac.id,0822852454,Dosen,Aktif
+285,Laras Firgantoro,laras.firgantoro@itera.ac.id,(0027) 715-0782,Dosen,Tidak Aktif
+286,Pia Salahudin,pia.salahudin@itera.ac.id,087 740 6298,Karyawan,Aktif
+287,Tiara Dabukke,tiara.dabukke@itera.ac.id,(029) 882-6970,Karyawan,Aktif
+288,Jaiman Adriansyah,jaiman.adriansyah@itera.ac.id,+62-835-714-0202,Karyawan,Aktif
+289,Hasan Halim,hasan.halim@itera.ac.id,+62 (77) 968-6346,Karyawan,Tidak Aktif
+290,drg. Jane Natsir,drg..jane.natsir@itera.ac.id,+62 (449) 381-2578,Dosen,Tidak Aktif
+291,Setya Winarno,setya.winarno@itera.ac.id,+62-0414-110-2911,Dosen,Tidak Aktif
+292,Balidin Pangestu,balidin.pangestu@itera.ac.id,+62 (027) 386-7626,Karyawan,Tidak Aktif
+293,Irma Saefullah,irma.saefullah@itera.ac.id,(001) 407-8742,Mahasiswa,Tidak Aktif
+294,Gasti Zulkarnain,gasti.zulkarnain@itera.ac.id,+62 (0605) 457-9242,Karyawan,Tidak Aktif
+295,Timbul Situmorang,timbul.situmorang@itera.ac.id,+62 (106) 489-4788,Karyawan,Tidak Aktif
+296,"Gilda Waluyo, S.Farm","gilda.waluyo,.s.farm@itera.ac.id",(063) 815 5637,Dosen,Tidak Aktif
+297,Tiara Narpati,tiara.narpati@itera.ac.id,+62-096-832-9029,Karyawan,Tidak Aktif
+298,Puti Narpati,puti.narpati@itera.ac.id,(047) 186-1137,Karyawan,Aktif
+299,Dewi Puspasari,dewi.puspasari@itera.ac.id,(0865) 810 2702,Karyawan,Tidak Aktif
+300,"drg. Maria Hassanah, M.TI.","drg..maria.hassanah,.m.ti.@itera.ac.id",+62 (0336) 743-5724,Karyawan,Aktif
+301,Dr. Vero Damanik,dr..vero.damanik@itera.ac.id,(036) 539-3424,Dosen,Tidak Aktif
+302,Raden Pradipta,raden.pradipta@itera.ac.id,085 860 0958,Dosen,Tidak Aktif
+303,"Lukita Damanik, M.Farm","lukita.damanik,.m.farm@itera.ac.id",+62-285-241-8271,Dosen,Aktif
+304,"R. Luthfi Mayasari, M.Farm","r..luthfi.mayasari,.m.farm@itera.ac.id",(0332) 569 6272,Karyawan,Aktif
+305,"Karsana Najmudin, S.Psi","karsana.najmudin,.s.psi@itera.ac.id",(0474) 148-0022,Karyawan,Aktif
+306,"Ir. Lili Wahyudin, S.E.I","ir..lili.wahyudin,.s.e.i@itera.ac.id",+62-040-388-7824,Karyawan,Aktif
+307,"Drs. Nadia Rahmawati, S.Psi","drs..nadia.rahmawati,.s.psi@itera.ac.id",089 217 9268,Mahasiswa,Tidak Aktif
+308,"R.M. Jati Prasetya, M.Farm","r.m..jati.prasetya,.m.farm@itera.ac.id",083 656 4582,Mahasiswa,Aktif
+309,Tgk. Sabar Prasetyo,tgk..sabar.prasetyo@itera.ac.id,(011) 935 2227,Mahasiswa,Aktif
+310,"Ir. Asman Utami, S.E.I","ir..asman.utami,.s.e.i@itera.ac.id",+62 (0568) 932 5931,Karyawan,Tidak Aktif
+311,Balidin Wastuti,balidin.wastuti@itera.ac.id,+62 (645) 080-6434,Dosen,Tidak Aktif
+312,Dalima Zulaika,dalima.zulaika@itera.ac.id,+62-307-490-9108,Mahasiswa,Tidak Aktif
+313,"drg. Sadina Siregar, S.Gz","drg..sadina.siregar,.s.gz@itera.ac.id",+62 (0030) 368 0472,Mahasiswa,Tidak Aktif
+314,Genta Tampubolon,genta.tampubolon@itera.ac.id,+62 (651) 047-2641,Dosen,Tidak Aktif
+315,Belinda Oktaviani,belinda.oktaviani@itera.ac.id,+62-070-327-6723,Dosen,Tidak Aktif
+316,Yance Latupono,yance.latupono@itera.ac.id,089 117 9276,Karyawan,Aktif
+317,Manah Anggriawan,manah.anggriawan@itera.ac.id,+62 (0003) 636-7654,Karyawan,Aktif
+318,Sutan Reza Simanjuntak,sutan.reza.simanjuntak@itera.ac.id,(057) 856 7769,Mahasiswa,Aktif
+319,"Ir. Endah Winarno, S.IP","ir..endah.winarno,.s.ip@itera.ac.id",+62-0152-454-9822,Karyawan,Tidak Aktif
+320,Mujur Saefullah,mujur.saefullah@itera.ac.id,083 035 5372,Karyawan,Aktif
+321,"Ir. Mala Anggraini, S.E.I","ir..mala.anggraini,.s.e.i@itera.ac.id",+62 (098) 141-4323,Karyawan,Tidak Aktif
+322,Kambali Suwarno,kambali.suwarno@itera.ac.id,+62 (465) 151 4411,Mahasiswa,Aktif
+323,R.M. Candra Melani,r.m..candra.melani@itera.ac.id,0860741659,Karyawan,Aktif
+324,"Teguh Purwanti, S.Pd","teguh.purwanti,.s.pd@itera.ac.id",+62 (0598) 290 2681,Karyawan,Aktif
+325,"Cut Faizah Iswahyudi, S.Ked","cut.faizah.iswahyudi,.s.ked@itera.ac.id",+62 (49) 990-1548,Mahasiswa,Tidak Aktif
+326,"Hj. Melinda Samosir, M.Farm","hj..melinda.samosir,.m.farm@itera.ac.id",+62-49-377-0717,Dosen,Aktif
+327,Joko Hastuti,joko.hastuti@itera.ac.id,+62-080-140-9892,Dosen,Aktif
+328,"Hj. Ana Saragih, M.Ak","hj..ana.saragih,.m.ak@itera.ac.id",+62 (117) 723 2679,Karyawan,Tidak Aktif
+329,Jabal Situmorang,jabal.situmorang@itera.ac.id,(0486) 964-3974,Mahasiswa,Tidak Aktif
+330,Drs. Rahmi Sitorus,drs..rahmi.sitorus@itera.ac.id,+62 (807) 604-4787,Mahasiswa,Aktif
+331,Eko Maheswara,eko.maheswara@itera.ac.id,+62 (0239) 795-1137,Karyawan,Tidak Aktif
+332,Lidya Zulkarnain,lidya.zulkarnain@itera.ac.id,+62-0279-031-2021,Mahasiswa,Tidak Aktif
+333,"Waluyo Usamah, S.Sos","waluyo.usamah,.s.sos@itera.ac.id",(047) 096-0394,Dosen,Tidak Aktif
+334,Sutan Setya Mayasari,sutan.setya.mayasari@itera.ac.id,+62 (60) 687 4780,Mahasiswa,Aktif
+335,Rahmat Sihotang,rahmat.sihotang@itera.ac.id,+62 (0483) 904-8205,Karyawan,Tidak Aktif
+336,Mila Purnawati,mila.purnawati@itera.ac.id,+62 (0930) 869 1129,Dosen,Tidak Aktif
+337,Irwan Dabukke,irwan.dabukke@itera.ac.id,+62-0749-848-7956,Karyawan,Aktif
+338,Jane Setiawan,jane.setiawan@itera.ac.id,(042) 657 7174,Dosen,Aktif
+339,"Mumpuni Dongoran, S.H.","mumpuni.dongoran,.s.h.@itera.ac.id",+62 (813) 483 9424,Karyawan,Tidak Aktif
+340,"Septi Jailani, S.T.","septi.jailani,.s.t.@itera.ac.id",+62 (050) 148 2532,Karyawan,Aktif
+341,Gangsa Megantara,gangsa.megantara@itera.ac.id,+62 (0949) 861-5175,Mahasiswa,Tidak Aktif
+342,"Yance Natsir, S.Pd","yance.natsir,.s.pd@itera.ac.id",+62-031-150-3118,Mahasiswa,Tidak Aktif
+343,Dr. Unjani Prabowo,dr..unjani.prabowo@itera.ac.id,+62-688-744-5017,Mahasiswa,Aktif
+344,Sutan Johan Maheswara,sutan.johan.maheswara@itera.ac.id,+62-032-059-0232,Dosen,Aktif
+345,Ganep Yolanda,ganep.yolanda@itera.ac.id,+62 (23) 243 9475,Karyawan,Aktif
+346,"Eko Widodo, M.TI.","eko.widodo,.m.ti.@itera.ac.id",+62-023-841-2865,Dosen,Aktif
+347,"Gamblang Hardiansyah, S.Psi","gamblang.hardiansyah,.s.psi@itera.ac.id",+62-874-074-6309,Mahasiswa,Aktif
+348,Elvin Napitupulu,elvin.napitupulu@itera.ac.id,+62-387-999-6224,Karyawan,Aktif
+349,"Drs. Teguh Suwarno, S.I.Kom","drs..teguh.suwarno,.s.i.kom@itera.ac.id",+62 (0562) 962 8647,Karyawan,Tidak Aktif
+350,Karta Haryanti,karta.haryanti@itera.ac.id,(0028) 145-7454,Mahasiswa,Tidak Aktif
+351,drg. Victoria Suryatmi,drg..victoria.suryatmi@itera.ac.id,+62 (0149) 163-5483,Karyawan,Aktif
+352,"R.A. Yuni Anggraini, S.Kom","r.a..yuni.anggraini,.s.kom@itera.ac.id",(051) 025-1224,Mahasiswa,Tidak Aktif
+353,"Ir. Zulfa Hardiansyah, S.IP","ir..zulfa.hardiansyah,.s.ip@itera.ac.id",(053) 112 0249,Karyawan,Tidak Aktif
+354,Emin Nuraini,emin.nuraini@itera.ac.id,+62 (0312) 980-0427,Mahasiswa,Tidak Aktif
+355,R. Kania Hidayanto,r..kania.hidayanto@itera.ac.id,+62 (0305) 370 8898,Dosen,Aktif
+356,Drs. Jessica Siregar,drs..jessica.siregar@itera.ac.id,081 988 4272,Karyawan,Tidak Aktif
+357,"drg. Ayu Prayoga, S.Kom","drg..ayu.prayoga,.s.kom@itera.ac.id",(000) 401-4130,Mahasiswa,Tidak Aktif
+358,dr. Yuni Wahyuni,dr..yuni.wahyuni@itera.ac.id,(0721) 026-0787,Karyawan,Tidak Aktif
+359,Lala Prayoga,lala.prayoga@itera.ac.id,(0146) 690 8376,Karyawan,Aktif
+360,"Ir. Mumpuni Gunarto, S.Pt","ir..mumpuni.gunarto,.s.pt@itera.ac.id",+62 (0284) 290 0992,Mahasiswa,Tidak Aktif
+361,Dr. Devi Nababan,dr..devi.nababan@itera.ac.id,+62 (44) 789 1694,Dosen,Aktif
+362,Radika Firmansyah,radika.firmansyah@itera.ac.id,+62 (045) 643-9557,Mahasiswa,Aktif
+363,Heryanto Megantara,heryanto.megantara@itera.ac.id,+62 (0420) 998 7166,Dosen,Tidak Aktif
+364,Darman Prastuti,darman.prastuti@itera.ac.id,(091) 218-0295,Karyawan,Aktif
+365,Oskar Rahayu,oskar.rahayu@itera.ac.id,(0726) 293 8229,Dosen,Aktif
+366,Michelle Manullang,michelle.manullang@itera.ac.id,+62 (61) 087 6179,Karyawan,Aktif
+367,Ilsa Maryati,ilsa.maryati@itera.ac.id,087 217 2938,Mahasiswa,Aktif
+368,Sarah Budiyanto,sarah.budiyanto@itera.ac.id,+62 (392) 899 4548,Dosen,Aktif
+369,Ir. Tantri Sitompul,ir..tantri.sitompul@itera.ac.id,082 275 8465,Dosen,Tidak Aktif
+370,Rahmi Oktaviani,rahmi.oktaviani@itera.ac.id,+62 (0261) 028 8563,Karyawan,Aktif
+371,Laila Winarsih,laila.winarsih@itera.ac.id,+62 (035) 629 1210,Karyawan,Aktif
+372,Sari Narpati,sari.narpati@itera.ac.id,+62-0832-355-3644,Dosen,Aktif
+373,Gawati Saefullah,gawati.saefullah@itera.ac.id,(039) 015 0709,Karyawan,Aktif
+374,Gandi Kusmawati,gandi.kusmawati@itera.ac.id,(0942) 254-3755,Dosen,Aktif
+375,Cakrabirawa Hutasoit,cakrabirawa.hutasoit@itera.ac.id,+62 (23) 238 9887,Mahasiswa,Tidak Aktif
+376,Mulyanto Nurdiyanti,mulyanto.nurdiyanti@itera.ac.id,(0188) 737-9104,Karyawan,Aktif
+377,"Dr. Ade Pratiwi, S.Sos","dr..ade.pratiwi,.s.sos@itera.ac.id",+62 (059) 417-2967,Dosen,Aktif
+378,"Drs. Prayitna Adriansyah, S.Farm","drs..prayitna.adriansyah,.s.farm@itera.ac.id",+62 (88) 985 6013,Dosen,Tidak Aktif
+379,Dr. Mahmud Sudiati,dr..mahmud.sudiati@itera.ac.id,+62-019-506-1614,Dosen,Tidak Aktif
+380,"Tgk. Lutfan Farida, S.Pt","tgk..lutfan.farida,.s.pt@itera.ac.id",+62 (084) 351-7263,Dosen,Tidak Aktif
+381,Calista Nainggolan,calista.nainggolan@itera.ac.id,(0276) 574 4084,Karyawan,Tidak Aktif
+382,Hesti Saefullah,hesti.saefullah@itera.ac.id,+62-50-748-1266,Mahasiswa,Tidak Aktif
+383,Najam Halim,najam.halim@itera.ac.id,+62-0802-534-6669,Dosen,Tidak Aktif
+384,Wardi Mangunsong,wardi.mangunsong@itera.ac.id,+62 (0526) 450 4295,Mahasiswa,Aktif
+385,Cinthia Rahayu,cinthia.rahayu@itera.ac.id,+62 (38) 152-6662,Karyawan,Aktif
+386,Puput Permadi,puput.permadi@itera.ac.id,+62-16-206-3212,Mahasiswa,Aktif
+387,Putri Wulandari,putri.wulandari@itera.ac.id,(070) 478 4412,Dosen,Aktif
+388,H. Cakrabirawa Wijaya,h..cakrabirawa.wijaya@itera.ac.id,+62 (046) 302 3546,Mahasiswa,Tidak Aktif
+389,Patricia Wibowo,patricia.wibowo@itera.ac.id,+62 (016) 507 8428,Dosen,Aktif
+390,Chelsea Budiman,chelsea.budiman@itera.ac.id,+62-61-169-8520,Dosen,Tidak Aktif
+391,"Rachel Maryati, M.Farm","rachel.maryati,.m.farm@itera.ac.id",+62 (21) 485 9411,Karyawan,Tidak Aktif
+392,Najwa Thamrin,najwa.thamrin@itera.ac.id,+62 (0495) 224 3602,Mahasiswa,Aktif
+393,Jais Nugroho,jais.nugroho@itera.ac.id,+62 (95) 582-1143,Mahasiswa,Tidak Aktif
+394,Gandi Irawan,gandi.irawan@itera.ac.id,+62-052-806-9685,Karyawan,Aktif
+395,Paiman Prasetya,paiman.prasetya@itera.ac.id,+62-268-741-7470,Dosen,Aktif
+396,Tantri Widodo,tantri.widodo@itera.ac.id,+62 (53) 423 0358,Karyawan,Tidak Aktif
+397,Hasim Napitupulu,hasim.napitupulu@itera.ac.id,(0071) 275-2058,Dosen,Aktif
+398,R.A. Tira Budiman,r.a..tira.budiman@itera.ac.id,+62 (766) 153 7919,Karyawan,Tidak Aktif
+399,R.A. Fitriani Yolanda,r.a..fitriani.yolanda@itera.ac.id,(049) 495 3915,Mahasiswa,Tidak Aktif
+400,"Drs. Ulva Situmorang, M.Pd","drs..ulva.situmorang,.m.pd@itera.ac.id",081 898 2034,Mahasiswa,Aktif
+401,Siska Permata,siska.permata@itera.ac.id,+62 (044) 146-7083,Karyawan,Tidak Aktif
+402,H. Ian Marpaung,h..ian.marpaung@itera.ac.id,+62 (791) 431 1015,Mahasiswa,Aktif
+403,"Timbul Saputra, S.Pd","timbul.saputra,.s.pd@itera.ac.id",+62-499-683-9581,Karyawan,Tidak Aktif
+404,Shakila Pangestu,shakila.pangestu@itera.ac.id,(053) 883 7277,Karyawan,Aktif
+405,"Cut Titin Situmorang, M.TI.","cut.titin.situmorang,.m.ti.@itera.ac.id",087 830 1894,Mahasiswa,Aktif
+406,Cawuk Rahayu,cawuk.rahayu@itera.ac.id,0816666213,Karyawan,Tidak Aktif
+407,Ade Dabukke,ade.dabukke@itera.ac.id,(0828) 551 1744,Karyawan,Aktif
+408,"KH. Bambang Sihombing, S.IP","kh..bambang.sihombing,.s.ip@itera.ac.id",(012) 845-6169,Dosen,Aktif
+409,Puti Shakila Rahayu,puti.shakila.rahayu@itera.ac.id,+62 (998) 956 7356,Karyawan,Tidak Aktif
+410,Dr. Eka Hassanah,dr..eka.hassanah@itera.ac.id,(074) 282-8505,Karyawan,Aktif
+411,Shania Suryono,shania.suryono@itera.ac.id,+62 (0661) 498-1403,Karyawan,Aktif
+412,Genta Winarno,genta.winarno@itera.ac.id,081 196 7961,Dosen,Tidak Aktif
+413,Daliono Rajasa,daliono.rajasa@itera.ac.id,+62 (0668) 629 4324,Dosen,Aktif
+414,Drs. Novi Wulandari,drs..novi.wulandari@itera.ac.id,+62-86-014-2126,Mahasiswa,Tidak Aktif
+415,Faizah Suwarno,faizah.suwarno@itera.ac.id,(0125) 963-4499,Dosen,Tidak Aktif
+416,Sabar Utama,sabar.utama@itera.ac.id,+62 (094) 686 0489,Karyawan,Tidak Aktif
+417,Hairyanto Haryanti,hairyanto.haryanti@itera.ac.id,+62 (076) 733-1848,Dosen,Tidak Aktif
+418,"drg. Tira Dabukke, M.M.","drg..tira.dabukke,.m.m.@itera.ac.id",(050) 092 7989,Karyawan,Tidak Aktif
+419,"Dt. Jindra Hutasoit, S.I.Kom","dt..jindra.hutasoit,.s.i.kom@itera.ac.id",0861386231,Mahasiswa,Aktif
+420,Oliva Iswahyudi,oliva.iswahyudi@itera.ac.id,+62 (395) 885-2043,Mahasiswa,Tidak Aktif
+421,Wani Prasetyo,wani.prasetyo@itera.ac.id,+62 (517) 812 3060,Dosen,Tidak Aktif
+422,Kenes Simanjuntak,kenes.simanjuntak@itera.ac.id,+62 (781) 686 0132,Karyawan,Aktif
+423,Nardi Ramadan,nardi.ramadan@itera.ac.id,+62 (073) 227 1935,Mahasiswa,Aktif
+424,Irsad Puspasari,irsad.puspasari@itera.ac.id,(079) 416-3924,Karyawan,Aktif
+425,"dr. Candra Hidayat, M.Pd","dr..candra.hidayat,.m.pd@itera.ac.id",+62 (059) 078 5687,Karyawan,Aktif
+426,Slamet Kusmawati,slamet.kusmawati@itera.ac.id,(0081) 101 8844,Mahasiswa,Aktif
+427,Najib Hartati,najib.hartati@itera.ac.id,(0386) 341-2179,Mahasiswa,Aktif
+428,"H. Wawan Tarihoran, M.Kom.","h..wawan.tarihoran,.m.kom.@itera.ac.id",082 733 5698,Karyawan,Tidak Aktif
+429,Septi Yolanda,septi.yolanda@itera.ac.id,+62-0916-591-2796,Karyawan,Tidak Aktif
+430,"Julia Rahayu, S.I.Kom","julia.rahayu,.s.i.kom@itera.ac.id",+62 (702) 272 0404,Karyawan,Tidak Aktif
+431,Amalia Simbolon,amalia.simbolon@itera.ac.id,+62-44-935-7037,Karyawan,Tidak Aktif
+432,Ganda Susanti,ganda.susanti@itera.ac.id,(0002) 503 7736,Mahasiswa,Tidak Aktif
+433,T. Wakiman Pratama,t..wakiman.pratama@itera.ac.id,(0018) 588 7177,Dosen,Aktif
+434,Intan Dabukke,intan.dabukke@itera.ac.id,(035) 647-8319,Karyawan,Aktif
+435,"Rahmi Sirait, M.Ak","rahmi.sirait,.m.ak@itera.ac.id",+62 (046) 704 6094,Mahasiswa,Tidak Aktif
+436,Rini Uyainah,rini.uyainah@itera.ac.id,+62 (004) 564-8360,Dosen,Aktif
+437,"Puspa Thamrin, S.Pt","puspa.thamrin,.s.pt@itera.ac.id",(0357) 631-8822,Mahasiswa,Tidak Aktif
+438,Luhung Andriani,luhung.andriani@itera.ac.id,(036) 858-8230,Dosen,Aktif
+439,"Ir. Gilda Sitorus, S.E.I","ir..gilda.sitorus,.s.e.i@itera.ac.id",+62 (841) 054-0710,Mahasiswa,Tidak Aktif
+440,Ciaobella Ardianto,ciaobella.ardianto@itera.ac.id,+62-0494-619-8017,Mahasiswa,Aktif
+441,"Maya Novitasari, S.E.I","maya.novitasari,.s.e.i@itera.ac.id",+62-62-100-3663,Dosen,Tidak Aktif
+442,Ayu Lailasari,ayu.lailasari@itera.ac.id,087 916 6004,Mahasiswa,Tidak Aktif
+443,Warsita Hidayat,warsita.hidayat@itera.ac.id,+62 (803) 569-4540,Dosen,Tidak Aktif
+444,Dt. Bagas Natsir,dt..bagas.natsir@itera.ac.id,+62 (81) 309 8037,Mahasiswa,Tidak Aktif
+445,Bakianto Farida,bakianto.farida@itera.ac.id,+62 (053) 864 4007,Dosen,Tidak Aktif
+446,"Atmaja Rahayu, M.Ak","atmaja.rahayu,.m.ak@itera.ac.id",(080) 500-1487,Dosen,Aktif
+447,Emil Farida,emil.farida@itera.ac.id,0897500554,Mahasiswa,Tidak Aktif
+448,"Tgk. Lutfan Gunawan, S.Gz","tgk..lutfan.gunawan,.s.gz@itera.ac.id",(0317) 641-7223,Mahasiswa,Tidak Aktif
+449,Galih Mustofa,galih.mustofa@itera.ac.id,+62-0958-456-1705,Mahasiswa,Tidak Aktif
+450,"Prabawa Hutapea, S.Pt","prabawa.hutapea,.s.pt@itera.ac.id",(079) 979 1022,Dosen,Tidak Aktif
+451,Mulyanto Sihombing,mulyanto.sihombing@itera.ac.id,0805997812,Karyawan,Aktif
+452,Karsana Rahimah,karsana.rahimah@itera.ac.id,+62-077-065-9208,Karyawan,Aktif
+453,Latika Mustofa,latika.mustofa@itera.ac.id,(0478) 833-9024,Karyawan,Tidak Aktif
+454,"Cut Sabrina Mulyani, S.E.","cut.sabrina.mulyani,.s.e.@itera.ac.id",+62 (38) 370-4363,Karyawan,Aktif
+455,"Kamaria Kuswandari, S.I.Kom","kamaria.kuswandari,.s.i.kom@itera.ac.id",+62 (091) 813 3537,Karyawan,Aktif
+456,"Lanang Melani, M.Kom.","lanang.melani,.m.kom.@itera.ac.id",+62 (976) 294-4966,Karyawan,Aktif
+457,Michelle Hartati,michelle.hartati@itera.ac.id,+62-068-670-3003,Mahasiswa,Aktif
+458,"Juli Pratiwi, M.Ak","juli.pratiwi,.m.ak@itera.ac.id",(0012) 766 0903,Dosen,Tidak Aktif
+459,Janet Nasyiah,janet.nasyiah@itera.ac.id,+62 (0994) 159 7769,Dosen,Tidak Aktif
+460,"Tgk. Tami Saefullah, S.Farm","tgk..tami.saefullah,.s.farm@itera.ac.id",(0187) 596-2748,Dosen,Aktif
+461,Vino Pudjiastuti,vino.pudjiastuti@itera.ac.id,+62 (99) 565 9561,Dosen,Tidak Aktif
+462,Elisa Nainggolan,elisa.nainggolan@itera.ac.id,+62 (280) 731 3050,Dosen,Aktif
+463,Chelsea Suryatmi,chelsea.suryatmi@itera.ac.id,+62 (294) 531 4469,Karyawan,Aktif
+464,Jane Hariyah,jane.hariyah@itera.ac.id,+62-055-321-2875,Mahasiswa,Aktif
+465,Luthfi Haryanti,luthfi.haryanti@itera.ac.id,+62-068-674-0534,Dosen,Aktif
+466,Kezia Kuswandari,kezia.kuswandari@itera.ac.id,+62 (41) 109-5259,Mahasiswa,Aktif
+467,"dr. Mala Padmasari, S.Farm","dr..mala.padmasari,.s.farm@itera.ac.id",087 250 9967,Karyawan,Tidak Aktif
+468,H. Lulut Siregar,h..lulut.siregar@itera.ac.id,+62-929-282-8416,Mahasiswa,Tidak Aktif
+469,Balapati Pradana,balapati.pradana@itera.ac.id,+62-83-281-2539,Mahasiswa,Tidak Aktif
+470,Shakila Hakim,shakila.hakim@itera.ac.id,+62 (27) 043-1134,Dosen,Aktif
+471,Umi Halim,umi.halim@itera.ac.id,+62-615-204-9502,Mahasiswa,Aktif
+472,Koko Situmorang,koko.situmorang@itera.ac.id,+62-589-016-8425,Karyawan,Aktif
+473,Putri Pradipta,putri.pradipta@itera.ac.id,+62 (0191) 323-9328,Karyawan,Tidak Aktif
+474,"drg. Sakura Rahayu, M.Ak","drg..sakura.rahayu,.m.ak@itera.ac.id",(015) 493 1624,Karyawan,Tidak Aktif
+475,Ibun Hariyah,ibun.hariyah@itera.ac.id,+62 (42) 421-8572,Mahasiswa,Tidak Aktif
+476,Queen Uwais,queen.uwais@itera.ac.id,+62 (0669) 182 5121,Mahasiswa,Tidak Aktif
+477,Humaira Purwanti,humaira.purwanti@itera.ac.id,(0467) 289-5690,Dosen,Tidak Aktif
+478,Lalita Kusumo,lalita.kusumo@itera.ac.id,0813632624,Mahasiswa,Aktif
+479,"Dr. Cawuk Firgantoro, S.IP","dr..cawuk.firgantoro,.s.ip@itera.ac.id",+62-38-103-0137,Mahasiswa,Aktif
+480,R. Prabawa Wasita,r..prabawa.wasita@itera.ac.id,+62 (38) 065-5553,Dosen,Aktif
+481,Karimah Rahmawati,karimah.rahmawati@itera.ac.id,(0045) 065 2551,Karyawan,Aktif
+482,Nilam Prakasa,nilam.prakasa@itera.ac.id,0841364999,Mahasiswa,Tidak Aktif
+483,"Mulyanto Sudiati, M.Kom.","mulyanto.sudiati,.m.kom.@itera.ac.id",+62-0041-914-6350,Mahasiswa,Tidak Aktif
+484,Lurhur Suartini,lurhur.suartini@itera.ac.id,+62 (0996) 488-4928,Mahasiswa,Aktif
+485,"dr. Jaiman Mandala, S.E.","dr..jaiman.mandala,.s.e.@itera.ac.id",+62 (023) 788 1664,Karyawan,Tidak Aktif
+486,"Rini Salahudin, M.M.","rini.salahudin,.m.m.@itera.ac.id",+62 (88) 823-8742,Mahasiswa,Tidak Aktif
+487,Tgk. Argono Mandala,tgk..argono.mandala@itera.ac.id,(0067) 799 1269,Dosen,Aktif
+488,"drg. Jelita Wahyuni, M.TI.","drg..jelita.wahyuni,.m.ti.@itera.ac.id",+62 (57) 232 8002,Dosen,Aktif
+489,"KH. Jayadi Pratiwi, S.Pt","kh..jayadi.pratiwi,.s.pt@itera.ac.id",+62 (0773) 624-2746,Mahasiswa,Aktif
+490,Virman Santoso,virman.santoso@itera.ac.id,+62-56-764-5286,Mahasiswa,Aktif
+491,"Drs. Dina Hartati, M.M.","drs..dina.hartati,.m.m.@itera.ac.id",+62-0205-782-2026,Karyawan,Aktif
+492,Surya Wacana,surya.wacana@itera.ac.id,(0078) 146-3388,Dosen,Aktif
+493,drg. Darimin Kuswoyo,drg..darimin.kuswoyo@itera.ac.id,+62-93-993-4586,Mahasiswa,Tidak Aktif
+494,"Hasan Mandasari, S.Pt","hasan.mandasari,.s.pt@itera.ac.id",+62-0572-826-0652,Mahasiswa,Aktif
+495,Novi Lestari,novi.lestari@itera.ac.id,+62 (171) 586 8445,Karyawan,Aktif
+496,Setya Suartini,setya.suartini@itera.ac.id,+62 (0678) 872 9638,Mahasiswa,Aktif
+497,"Mujur Mandasari, S.Gz","mujur.mandasari,.s.gz@itera.ac.id",+62 (0352) 798-4034,Dosen,Tidak Aktif
+498,Cayadi Mardhiyah,cayadi.mardhiyah@itera.ac.id,+62 (0515) 275-7860,Mahasiswa,Tidak Aktif
+499,Victoria Waluyo,victoria.waluyo@itera.ac.id,(014) 944-7270,Karyawan,Aktif
+500,"H. Martani Mustofa, M.M.","h..martani.mustofa,.m.m.@itera.ac.id",+62-079-790-0760,Karyawan,Aktif
+501,Raina Susanti,raina.susanti@itera.ac.id,(047) 202-3553,Mahasiswa,Aktif
+502,Anita Hutagalung,anita.hutagalung@itera.ac.id,+62-065-400-8950,Dosen,Aktif
+503,Karna Sihombing,karna.sihombing@itera.ac.id,+62-0236-250-6526,Mahasiswa,Tidak Aktif
+504,Caturangga Permadi,caturangga.permadi@itera.ac.id,(074) 784-7004,Dosen,Aktif
+505,Zulaikha Prasetya,zulaikha.prasetya@itera.ac.id,(048) 026-9448,Dosen,Aktif
+506,Balidin Irawan,balidin.irawan@itera.ac.id,(0080) 109-6651,Mahasiswa,Aktif
+507,Harjo Nababan,harjo.nababan@itera.ac.id,+62-26-524-3295,Karyawan,Aktif
+508,Vivi Sihombing,vivi.sihombing@itera.ac.id,+62 (38) 113-0520,Mahasiswa,Tidak Aktif
+509,"Hj. Icha Kuswoyo, S.Pt","hj..icha.kuswoyo,.s.pt@itera.ac.id",+62 (0774) 071-0639,Mahasiswa,Aktif
+510,dr. Cakrabirawa Tamba,dr..cakrabirawa.tamba@itera.ac.id,+62 (17) 789-4292,Mahasiswa,Tidak Aktif
+511,Irma Agustina,irma.agustina@itera.ac.id,+62 (038) 425 7331,Dosen,Tidak Aktif
+512,Ophelia Puspita,ophelia.puspita@itera.ac.id,+62 (051) 282 2793,Karyawan,Tidak Aktif
+513,Bahuraksa Setiawan,bahuraksa.setiawan@itera.ac.id,+62-67-351-7125,Karyawan,Aktif
+514,"Jamalia Santoso, S.Kom","jamalia.santoso,.s.kom@itera.ac.id",+62 (066) 194-9824,Karyawan,Aktif
+515,Rina Waskita,rina.waskita@itera.ac.id,(0823) 302 9620,Dosen,Tidak Aktif
+516,Kasusra Nashiruddin,kasusra.nashiruddin@itera.ac.id,089 549 2997,Mahasiswa,Tidak Aktif
+517,Intan Prabowo,intan.prabowo@itera.ac.id,+62 (052) 916-9251,Dosen,Aktif
+518,Gina Samosir,gina.samosir@itera.ac.id,(0650) 686-4354,Mahasiswa,Tidak Aktif
+519,Karimah Wibisono,karimah.wibisono@itera.ac.id,+62 (006) 307-3168,Karyawan,Aktif
+520,Manah Winarsih,manah.winarsih@itera.ac.id,+62-0316-342-8513,Mahasiswa,Aktif
+521,Dewi Prasetya,dewi.prasetya@itera.ac.id,+62 (616) 361 5192,Mahasiswa,Aktif
+522,Nugraha Mayasari,nugraha.mayasari@itera.ac.id,(0364) 470-6184,Mahasiswa,Tidak Aktif
+523,Oman Permadi,oman.permadi@itera.ac.id,+62 (601) 956 8221,Dosen,Aktif
+524,Ella Farida,ella.farida@itera.ac.id,0805479794,Mahasiswa,Aktif
+525,Tari Manullang,tari.manullang@itera.ac.id,+62 (068) 326-5015,Karyawan,Tidak Aktif
+526,Rahayu Safitri,rahayu.safitri@itera.ac.id,+62 (948) 134 1556,Dosen,Aktif
+527,T. Laksana Susanti,t..laksana.susanti@itera.ac.id,+62 (0664) 155-3588,Mahasiswa,Tidak Aktif
+528,"drg. Keisha Nainggolan, S.Ked","drg..keisha.nainggolan,.s.ked@itera.ac.id",+62 (76) 417 2519,Karyawan,Aktif
+529,"Puji Waskita, S.E.","puji.waskita,.s.e.@itera.ac.id",+62 (79) 176 5174,Mahasiswa,Tidak Aktif
+530,Ganjaran Nasyiah,ganjaran.nasyiah@itera.ac.id,+62 (0435) 361 4465,Mahasiswa,Tidak Aktif
+531,Victoria Safitri,victoria.safitri@itera.ac.id,+62 (910) 582-9869,Dosen,Aktif
+532,Ir. Alika Susanti,ir..alika.susanti@itera.ac.id,+62-939-235-9645,Karyawan,Tidak Aktif
+533,Puti Hidayat,puti.hidayat@itera.ac.id,+62 (486) 108 1628,Dosen,Tidak Aktif
+534,"Sidiq Winarno, S.Ked","sidiq.winarno,.s.ked@itera.ac.id",+62-939-916-7024,Karyawan,Aktif
+535,Banara Mahendra,banara.mahendra@itera.ac.id,+62-622-904-9928,Dosen,Tidak Aktif
+536,Warta Maryati,warta.maryati@itera.ac.id,+62 (279) 983 3979,Mahasiswa,Tidak Aktif
+537,Rika Sitompul,rika.sitompul@itera.ac.id,+62 (93) 272 7228,Dosen,Tidak Aktif
+538,"Tri Saragih, M.TI.","tri.saragih,.m.ti.@itera.ac.id",(0302) 233-3790,Karyawan,Tidak Aktif
+539,Cecep Anggraini,cecep.anggraini@itera.ac.id,+62 (076) 467 3308,Karyawan,Tidak Aktif
+540,Vicky Januar,vicky.januar@itera.ac.id,+62 (073) 098 3680,Mahasiswa,Tidak Aktif
+541,Bella Manullang,bella.manullang@itera.ac.id,+62-078-328-1055,Karyawan,Tidak Aktif
+542,Patricia Saefullah,patricia.saefullah@itera.ac.id,(018) 886 5440,Dosen,Tidak Aktif
+543,"Dr. Titi Pradana, S.Pd","dr..titi.pradana,.s.pd@itera.ac.id",(068) 047 4728,Mahasiswa,Aktif
+544,Ciaobella Simbolon,ciaobella.simbolon@itera.ac.id,+62 (075) 295 1617,Dosen,Tidak Aktif
+545,Luhung Zulaika,luhung.zulaika@itera.ac.id,+62 (074) 496-3442,Dosen,Tidak Aktif
+546,"Hj. Hilda Nasyidah, S.Gz","hj..hilda.nasyidah,.s.gz@itera.ac.id",+62 (244) 181 4089,Mahasiswa,Tidak Aktif
+547,Respati Yulianti,respati.yulianti@itera.ac.id,+62-000-310-2960,Karyawan,Aktif
+548,"Dr. Jail Iswahyudi, S.Pt","dr..jail.iswahyudi,.s.pt@itera.ac.id",(098) 025 6588,Mahasiswa,Tidak Aktif
+549,"Bagus Kuswandari, S.Psi","bagus.kuswandari,.s.psi@itera.ac.id",(0271) 607 5246,Dosen,Aktif
+550,Sakura Sitompul,sakura.sitompul@itera.ac.id,+62-383-136-0529,Dosen,Tidak Aktif
+551,Cici Mardhiyah,cici.mardhiyah@itera.ac.id,+62-003-506-6160,Karyawan,Aktif
+552,Tgk. Zahra Pudjiastuti,tgk..zahra.pudjiastuti@itera.ac.id,+62-392-054-7976,Mahasiswa,Aktif
+553,Pranawa Rahimah,pranawa.rahimah@itera.ac.id,0840244998,Karyawan,Aktif
+554,"Puput Usada, S.Kom","puput.usada,.s.kom@itera.ac.id",+62-371-396-4008,Karyawan,Tidak Aktif
+555,Maida Simbolon,maida.simbolon@itera.ac.id,(0929) 133 2342,Karyawan,Aktif
+556,Candrakanta Sihombing,candrakanta.sihombing@itera.ac.id,0860969913,Dosen,Tidak Aktif
+557,Pia Hutagalung,pia.hutagalung@itera.ac.id,+62-062-681-7257,Mahasiswa,Tidak Aktif
+558,"Ir. Hana Samosir, M.Pd","ir..hana.samosir,.m.pd@itera.ac.id",+62 (0317) 583 8979,Mahasiswa,Aktif
+559,dr. Cager Haryanti,dr..cager.haryanti@itera.ac.id,+62 (67) 161 5600,Mahasiswa,Tidak Aktif
+560,Lanang Pradipta,lanang.pradipta@itera.ac.id,+62 (81) 653 2207,Karyawan,Aktif
+561,dr. Ina Hutapea,dr..ina.hutapea@itera.ac.id,+62 (0515) 234 9017,Mahasiswa,Tidak Aktif
+562,Paulin Pangestu,paulin.pangestu@itera.ac.id,(022) 119-3927,Karyawan,Tidak Aktif
+563,"H. Imam Lailasari, S.Pd","h..imam.lailasari,.s.pd@itera.ac.id",+62 (0981) 267 3819,Karyawan,Tidak Aktif
+564,Saka Padmasari,saka.padmasari@itera.ac.id,+62 (847) 548-2439,Mahasiswa,Aktif
+565,"Drs. Putri Rahimah, M.Ak","drs..putri.rahimah,.m.ak@itera.ac.id",+62 (0955) 363-8863,Dosen,Tidak Aktif
+566,Ridwan Halim,ridwan.halim@itera.ac.id,+62 (081) 734-7790,Karyawan,Tidak Aktif
+567,Humaira Sihombing,humaira.sihombing@itera.ac.id,+62-690-620-5120,Mahasiswa,Tidak Aktif
+568,"R. Jati Pradana, S.I.Kom","r..jati.pradana,.s.i.kom@itera.ac.id",+62 (0926) 282 2782,Mahasiswa,Aktif
+569,Fathonah Wahyudin,fathonah.wahyudin@itera.ac.id,081 773 2864,Mahasiswa,Aktif
+570,"Drs. Latika Suartini, M.M.","drs..latika.suartini,.m.m.@itera.ac.id",087 032 8162,Mahasiswa,Tidak Aktif
+571,Ir. Prayogo Wijaya,ir..prayogo.wijaya@itera.ac.id,+62 (039) 006 6408,Mahasiswa,Tidak Aktif
+572,"Ir. Kambali Irawan, M.Kom.","ir..kambali.irawan,.m.kom.@itera.ac.id",+62 (0505) 842 2970,Dosen,Aktif
+573,Ana Anggriawan,ana.anggriawan@itera.ac.id,(029) 990 9517,Karyawan,Aktif
+574,"Paramita Nashiruddin, S.IP","paramita.nashiruddin,.s.ip@itera.ac.id",+62-94-787-4488,Mahasiswa,Aktif
+575,"Jamil Purnawati, S.I.Kom","jamil.purnawati,.s.i.kom@itera.ac.id",0892745155,Dosen,Tidak Aktif
+576,"Bahuraksa Nababan, S.T.","bahuraksa.nababan,.s.t.@itera.ac.id",0816375394,Karyawan,Tidak Aktif
+577,Enteng Nashiruddin,enteng.nashiruddin@itera.ac.id,0839513544,Mahasiswa,Tidak Aktif
+578,Eva Winarsih,eva.winarsih@itera.ac.id,+62 (648) 172-3570,Dosen,Tidak Aktif
+579,Cut Hani Puspita,cut.hani.puspita@itera.ac.id,(0998) 248-6787,Dosen,Tidak Aktif
+580,"Hj. Sabrina Mandala, S.H.","hj..sabrina.mandala,.s.h.@itera.ac.id",(0309) 065-1909,Mahasiswa,Aktif
+581,Lantar Prabowo,lantar.prabowo@itera.ac.id,(0923) 549 0319,Mahasiswa,Tidak Aktif
+582,R. Ganda Usamah,r..ganda.usamah@itera.ac.id,+62 (916) 972-6374,Mahasiswa,Tidak Aktif
+583,"Daliman Waskita, S.E.I","daliman.waskita,.s.e.i@itera.ac.id",(012) 042-9484,Dosen,Aktif
+584,"R.A. Widya Hakim, S.Farm","r.a..widya.hakim,.s.farm@itera.ac.id",+62 (041) 962 0381,Mahasiswa,Tidak Aktif
+585,"Dr. Baktiono Maulana, S.Farm","dr..baktiono.maulana,.s.farm@itera.ac.id",+62-01-518-3438,Karyawan,Aktif
+586,"Puti Ophelia Rahmawati, S.Pt","puti.ophelia.rahmawati,.s.pt@itera.ac.id",(085) 928-4413,Dosen,Aktif
+587,Caket Uwais,caket.uwais@itera.ac.id,(016) 744-2613,Karyawan,Aktif
+588,"Bagya Sihombing, S.Ked","bagya.sihombing,.s.ked@itera.ac.id",+62 (042) 164-2166,Dosen,Tidak Aktif
+589,Zahra Nababan,zahra.nababan@itera.ac.id,+62 (77) 204-5056,Dosen,Aktif
+590,Eka Haryanto,eka.haryanto@itera.ac.id,+62 (005) 323 4903,Mahasiswa,Aktif
+591,"Oni Wasita, S.IP","oni.wasita,.s.ip@itera.ac.id",+62-0038-197-8347,Dosen,Tidak Aktif
+592,Belinda Yuniar,belinda.yuniar@itera.ac.id,+62 (0135) 495 9361,Karyawan,Aktif
+593,Oliva Yuniar,oliva.yuniar@itera.ac.id,+62 (881) 716-5813,Mahasiswa,Aktif
+594,"Kamaria Nuraini, S.Sos","kamaria.nuraini,.s.sos@itera.ac.id",(0314) 857 7511,Dosen,Tidak Aktif
+595,"R.A. Cici Hartati, S.T.","r.a..cici.hartati,.s.t.@itera.ac.id",+62 (332) 396 1298,Mahasiswa,Aktif
+596,Nardi Puspasari,nardi.puspasari@itera.ac.id,+62-576-541-3539,Mahasiswa,Aktif
+597,Virman Kuswoyo,virman.kuswoyo@itera.ac.id,+62 (000) 948-1218,Karyawan,Tidak Aktif
+598,Kayla Prasasta,kayla.prasasta@itera.ac.id,+62-77-080-0813,Karyawan,Aktif
+599,Hasim Simbolon,hasim.simbolon@itera.ac.id,+62 (38) 900-5113,Karyawan,Aktif
+600,"dr. Nadia Waluyo, S.Ked","dr..nadia.waluyo,.s.ked@itera.ac.id",(019) 150 3357,Mahasiswa,Tidak Aktif
+601,Kartika Suartini,kartika.suartini@itera.ac.id,+62-57-871-8254,Dosen,Tidak Aktif
+602,"R. Ikhsan Purnawati, M.Ak","r..ikhsan.purnawati,.m.ak@itera.ac.id",+62-878-848-7125,Dosen,Aktif
+603,"Dt. Gatra Simanjuntak, S.T.","dt..gatra.simanjuntak,.s.t.@itera.ac.id",+62 (43) 057 7185,Mahasiswa,Tidak Aktif
+604,"Nilam Yolanda, S.Pt","nilam.yolanda,.s.pt@itera.ac.id",(025) 732 6964,Mahasiswa,Tidak Aktif
+605,"Farah Hardiansyah, S.Pd","farah.hardiansyah,.s.pd@itera.ac.id",+62-063-982-7300,Karyawan,Tidak Aktif
+606,Zaenab Hardiansyah,zaenab.hardiansyah@itera.ac.id,(0088) 275 5297,Mahasiswa,Tidak Aktif
+607,drg. Clara Maulana,drg..clara.maulana@itera.ac.id,081 568 1747,Karyawan,Tidak Aktif
+608,Caturangga Sihombing,caturangga.sihombing@itera.ac.id,+62 (083) 089 2377,Mahasiswa,Tidak Aktif
+609,Edison Tamba,edison.tamba@itera.ac.id,+62 (088) 954-5997,Karyawan,Tidak Aktif
+610,Mumpuni Samosir,mumpuni.samosir@itera.ac.id,+62 (50) 701-5529,Dosen,Tidak Aktif
+611,Wadi Mandala,wadi.mandala@itera.ac.id,+62 (96) 351 5861,Dosen,Tidak Aktif
+612,Natalia Halim,natalia.halim@itera.ac.id,+62 (0438) 324 3826,Karyawan,Aktif
+613,"dr. Nadine Tampubolon, S.E.I","dr..nadine.tampubolon,.s.e.i@itera.ac.id",+62 (0280) 359 3115,Karyawan,Tidak Aktif
+614,"Fitriani Firgantoro, M.M.","fitriani.firgantoro,.m.m.@itera.ac.id",+62 (28) 801 4014,Karyawan,Aktif
+615,"Opan Puspita, M.Pd","opan.puspita,.m.pd@itera.ac.id",+62-583-172-4912,Karyawan,Tidak Aktif
+616,"drg. Kasim Kusmawati, S.Sos","drg..kasim.kusmawati,.s.sos@itera.ac.id",+62 (051) 276-2612,Dosen,Tidak Aktif
+617,Galur Salahudin,galur.salahudin@itera.ac.id,+62 (12) 230 5222,Dosen,Aktif
+618,"Sutan Hasta Safitri, S.Psi","sutan.hasta.safitri,.s.psi@itera.ac.id",+62 (051) 746-1821,Karyawan,Aktif
+619,Zaenab Sinaga,zaenab.sinaga@itera.ac.id,+62 (177) 002-2913,Dosen,Aktif
+620,Hasna Haryanti,hasna.haryanti@itera.ac.id,+62 (63) 917 8471,Dosen,Aktif
+621,T. Gading Pratama,t..gading.pratama@itera.ac.id,+62 (72) 211 1899,Mahasiswa,Aktif
+622,Kayla Usamah,kayla.usamah@itera.ac.id,+62 (85) 136 4759,Karyawan,Tidak Aktif
+623,"Febi Widiastuti, S.Kom","febi.widiastuti,.s.kom@itera.ac.id",(098) 583 9536,Dosen,Tidak Aktif
+624,R. Tirta Ardianto,r..tirta.ardianto@itera.ac.id,+62-0975-037-4522,Mahasiswa,Aktif
+625,Nyoman Megantara,nyoman.megantara@itera.ac.id,+62 (0451) 767 5289,Karyawan,Aktif
+626,"Halima Wahyudin, M.Kom.","halima.wahyudin,.m.kom.@itera.ac.id",+62 (98) 962 8555,Karyawan,Aktif
+627,"T. Mahesa Rahayu, S.E.I","t..mahesa.rahayu,.s.e.i@itera.ac.id",+62 (33) 345-9609,Mahasiswa,Aktif
+628,"Drs. Nadia Pratiwi, S.Ked","drs..nadia.pratiwi,.s.ked@itera.ac.id",+62-014-410-7166,Dosen,Tidak Aktif
+629,Dt. Galur Kusumo,dt..galur.kusumo@itera.ac.id,+62 (90) 324 5246,Mahasiswa,Tidak Aktif
+630,Harjaya Nainggolan,harjaya.nainggolan@itera.ac.id,(0062) 380 3351,Mahasiswa,Aktif
+631,"Prabawa Mayasari, M.Kom.","prabawa.mayasari,.m.kom.@itera.ac.id",+62 (0866) 309 7324,Karyawan,Tidak Aktif
+632,"Mahfud Andriani, S.Gz","mahfud.andriani,.s.gz@itera.ac.id",(0288) 973-9710,Dosen,Tidak Aktif
+633,"Fitria Widiastuti, S.E.I","fitria.widiastuti,.s.e.i@itera.ac.id",(037) 311-7698,Dosen,Aktif
+634,"Karimah Saptono, S.Pd","karimah.saptono,.s.pd@itera.ac.id",083 672 0206,Dosen,Aktif
+635,Zulaikha Salahudin,zulaikha.salahudin@itera.ac.id,+62 (305) 618-8754,Dosen,Tidak Aktif
+636,"R. Among Latupono, S.Gz","r..among.latupono,.s.gz@itera.ac.id",+62-180-891-6315,Mahasiswa,Aktif
+637,Kacung Pertiwi,kacung.pertiwi@itera.ac.id,+62-46-622-6063,Dosen,Tidak Aktif
+638,Langgeng Kuswandari,langgeng.kuswandari@itera.ac.id,(030) 205 5669,Karyawan,Aktif
+639,Ilsa Safitri,ilsa.safitri@itera.ac.id,0881783143,Dosen,Aktif
+640,Carla Yuniar,carla.yuniar@itera.ac.id,+62 (77) 430-2399,Mahasiswa,Tidak Aktif
+641,Drs. Febi Yuniar,drs..febi.yuniar@itera.ac.id,+62-164-460-0278,Mahasiswa,Aktif
+642,"Ir. Marwata Prasetya, M.Kom.","ir..marwata.prasetya,.m.kom.@itera.ac.id",+62 (035) 635-6358,Dosen,Aktif
+643,Siti Tampubolon,siti.tampubolon@itera.ac.id,+62-65-462-5403,Mahasiswa,Tidak Aktif
+644,Wardi Mangunsong,wardi.mangunsong@itera.ac.id,+62 (342) 756-8443,Karyawan,Aktif
+645,Irfan Pranowo,irfan.pranowo@itera.ac.id,087 883 2844,Mahasiswa,Tidak Aktif
+646,Garda Wasita,garda.wasita@itera.ac.id,+62 (0603) 634-4720,Dosen,Aktif
+647,Darmaji Susanti,darmaji.susanti@itera.ac.id,+62 (04) 034 9169,Dosen,Aktif
+648,Yessi Sihombing,yessi.sihombing@itera.ac.id,+62 (094) 555 4495,Karyawan,Aktif
+649,Najib Pratama,najib.pratama@itera.ac.id,+62 (479) 476-5981,Karyawan,Aktif
+650,Dt. Taufan Sihombing,dt..taufan.sihombing@itera.ac.id,+62-0381-755-7825,Mahasiswa,Aktif
+651,Ir. Ratna Pratiwi,ir..ratna.pratiwi@itera.ac.id,+62 (0362) 198-2576,Karyawan,Aktif
+652,Hamima Suwarno,hamima.suwarno@itera.ac.id,084 255 0278,Mahasiswa,Aktif
+653,Wira Thamrin,wira.thamrin@itera.ac.id,0847097737,Mahasiswa,Tidak Aktif
+654,Ozy Nugroho,ozy.nugroho@itera.ac.id,(054) 674 9135,Mahasiswa,Tidak Aktif
+655,Nilam Gunawan,nilam.gunawan@itera.ac.id,+62-606-800-4231,Dosen,Tidak Aktif
+656,Hamima Prasetyo,hamima.prasetyo@itera.ac.id,+62-01-023-6336,Mahasiswa,Aktif
+657,"Sakura Kuswoyo, S.Ked","sakura.kuswoyo,.s.ked@itera.ac.id",+62 (071) 557-2466,Karyawan,Aktif
+658,Puti Hamima Manullang,puti.hamima.manullang@itera.ac.id,+62-0021-024-7780,Karyawan,Aktif
+659,Drs. Winda Wibisono,drs..winda.wibisono@itera.ac.id,+62 (008) 602-1420,Dosen,Aktif
+660,"Paris Pratama, S.Pt","paris.pratama,.s.pt@itera.ac.id",(020) 869-5148,Dosen,Aktif
+661,"Bagus Sihombing, S.IP","bagus.sihombing,.s.ip@itera.ac.id",+62-92-160-1801,Mahasiswa,Tidak Aktif
+662,Opung Rahayu,opung.rahayu@itera.ac.id,+62 (29) 789 6475,Karyawan,Tidak Aktif
+663,Dr. Yuni Hastuti,dr..yuni.hastuti@itera.ac.id,+62 (030) 728-8741,Dosen,Tidak Aktif
+664,Talia Marbun,talia.marbun@itera.ac.id,+62 (971) 960-0228,Dosen,Tidak Aktif
+665,Cahyono Manullang,cahyono.manullang@itera.ac.id,(0706) 468 5203,Mahasiswa,Tidak Aktif
+666,Cakrajiya Mahendra,cakrajiya.mahendra@itera.ac.id,+62-0514-125-2105,Dosen,Tidak Aktif
+667,"R.M. Pranawa Kuswoyo, M.Farm","r.m..pranawa.kuswoyo,.m.farm@itera.ac.id",(093) 162-3893,Mahasiswa,Aktif
+668,Nalar Hariyah,nalar.hariyah@itera.ac.id,+62-0778-631-7334,Dosen,Aktif
+669,Yuliana Uyainah,yuliana.uyainah@itera.ac.id,+62 (85) 824-7543,Mahasiswa,Aktif
+670,"Drs. Tri Yolanda, M.M.","drs..tri.yolanda,.m.m.@itera.ac.id",(099) 318-3797,Karyawan,Aktif
+671,Dt. Harjo Wulandari,dt..harjo.wulandari@itera.ac.id,+62 (50) 622 4487,Dosen,Tidak Aktif
+672,"Tgk. Ira Pudjiastuti, S.Kom","tgk..ira.pudjiastuti,.s.kom@itera.ac.id",(0465) 462-7517,Karyawan,Aktif
+673,drg. Putri Suartini,drg..putri.suartini@itera.ac.id,+62 (64) 573-8396,Karyawan,Tidak Aktif
+674,Sutan Jagapati Hidayat,sutan.jagapati.hidayat@itera.ac.id,+62 (016) 673-0371,Dosen,Tidak Aktif
+675,Kajen Firgantoro,kajen.firgantoro@itera.ac.id,(0823) 466-3157,Mahasiswa,Aktif
+676,Puti Sarah Thamrin,puti.sarah.thamrin@itera.ac.id,+62 (0098) 781-9927,Karyawan,Tidak Aktif
+677,Puput Agustina,puput.agustina@itera.ac.id,+62-0462-114-8755,Karyawan,Aktif
+678,Tgk. Fitriani Yuniar,tgk..fitriani.yuniar@itera.ac.id,+62 (714) 841-0957,Mahasiswa,Tidak Aktif
+679,Paramita Waluyo,paramita.waluyo@itera.ac.id,+62-077-787-4140,Karyawan,Tidak Aktif
+680,Dewi Suwarno,dewi.suwarno@itera.ac.id,+62-73-136-5931,Mahasiswa,Aktif
+681,Kani Mustofa,kani.mustofa@itera.ac.id,+62 (32) 627 4056,Mahasiswa,Tidak Aktif
+682,Warta Manullang,warta.manullang@itera.ac.id,+62-728-713-4163,Karyawan,Aktif
+683,Cayadi Sihombing,cayadi.sihombing@itera.ac.id,+62-025-413-4706,Dosen,Tidak Aktif
+684,Kasiyah Oktaviani,kasiyah.oktaviani@itera.ac.id,+62 (063) 252-2896,Mahasiswa,Aktif
+685,"Kariman Rajata, S.E.","kariman.rajata,.s.e.@itera.ac.id",+62 (73) 738 1868,Dosen,Tidak Aktif
+686,Cut Melinda Waluyo,cut.melinda.waluyo@itera.ac.id,(0626) 285 6636,Mahasiswa,Tidak Aktif
+687,drg. Parman Nababan,drg..parman.nababan@itera.ac.id,+62 (672) 711 3855,Dosen,Tidak Aktif
+688,Kania Winarsih,kania.winarsih@itera.ac.id,+62 (077) 505 6227,Mahasiswa,Aktif
+689,Puti Hidayat,puti.hidayat@itera.ac.id,0800599755,Mahasiswa,Aktif
+690,Prayitna Pertiwi,prayitna.pertiwi@itera.ac.id,+62-699-599-4162,Dosen,Tidak Aktif
+691,Puti Carla Pangestu,puti.carla.pangestu@itera.ac.id,+62-424-901-2353,Dosen,Aktif
+692,"Hj. Tantri Hardiansyah, S.E.I","hj..tantri.hardiansyah,.s.e.i@itera.ac.id",+62-031-694-3750,Mahasiswa,Aktif
+693,"Ir. Samsul Ardianto, M.TI.","ir..samsul.ardianto,.m.ti.@itera.ac.id",+62-087-161-8140,Dosen,Aktif
+694,KH. Baktiadi Manullang,kh..baktiadi.manullang@itera.ac.id,+62 (0703) 089-4053,Dosen,Aktif
+695,"Ir. Maimunah Wibowo, S.Kom","ir..maimunah.wibowo,.s.kom@itera.ac.id",+62 (20) 989 0145,Dosen,Aktif
+696,Dt. Bahuraksa Manullang,dt..bahuraksa.manullang@itera.ac.id,0843857181,Mahasiswa,Tidak Aktif
+697,Latika Samosir,latika.samosir@itera.ac.id,+62 (74) 795 9403,Karyawan,Aktif
+698,Endra Maryadi,endra.maryadi@itera.ac.id,+62 (437) 422-6133,Karyawan,Aktif
+699,"Respati Aryani, S.Farm","respati.aryani,.s.farm@itera.ac.id",+62 (670) 185 1076,Mahasiswa,Tidak Aktif
+700,Maria Mandasari,maria.mandasari@itera.ac.id,(080) 872-3625,Karyawan,Tidak Aktif
+701,Kariman Hutasoit,kariman.hutasoit@itera.ac.id,+62 (0573) 219-2405,Dosen,Tidak Aktif
+702,"Gading Yolanda, M.Kom.","gading.yolanda,.m.kom.@itera.ac.id",+62-030-525-4104,Mahasiswa,Tidak Aktif
+703,Ir. Tiara Permadi,ir..tiara.permadi@itera.ac.id,+62 (24) 774-5380,Mahasiswa,Tidak Aktif
+704,drg. Wulan Hariyah,drg..wulan.hariyah@itera.ac.id,+62 (0123) 065 0487,Karyawan,Aktif
+705,Yahya Napitupulu,yahya.napitupulu@itera.ac.id,0867986201,Karyawan,Aktif
+706,Mitra Siregar,mitra.siregar@itera.ac.id,+62 (182) 356 8603,Dosen,Aktif
+707,Talia Suryatmi,talia.suryatmi@itera.ac.id,(0760) 956-8411,Karyawan,Aktif
+708,Malika Saragih,malika.saragih@itera.ac.id,0858843401,Mahasiswa,Aktif
+709,Ida Puspita,ida.puspita@itera.ac.id,(032) 717 0260,Dosen,Tidak Aktif
+710,Ir. Restu Nasyiah,ir..restu.nasyiah@itera.ac.id,+62 (0625) 290-0481,Karyawan,Tidak Aktif
+711,"R.A. Cinta Rahimah, S.E.","r.a..cinta.rahimah,.s.e.@itera.ac.id",+62 (712) 143 8181,Mahasiswa,Tidak Aktif
+712,Azalea Mandala,azalea.mandala@itera.ac.id,0855745750,Dosen,Aktif
+713,Jessica Adriansyah,jessica.adriansyah@itera.ac.id,+62-459-183-3244,Karyawan,Tidak Aktif
+714,R. Kawaya Prakasa,r..kawaya.prakasa@itera.ac.id,(0912) 979 0888,Dosen,Aktif
+715,Yuliana Firgantoro,yuliana.firgantoro@itera.ac.id,0823527291,Karyawan,Tidak Aktif
+716,Aditya Fujiati,aditya.fujiati@itera.ac.id,+62 (112) 861-8432,Dosen,Tidak Aktif
+717,Drs. Asmianto Hidayanto,drs..asmianto.hidayanto@itera.ac.id,+62 (0930) 609 1544,Karyawan,Tidak Aktif
+718,Heryanto Saputra,heryanto.saputra@itera.ac.id,(0147) 873 9990,Mahasiswa,Aktif
+719,"Balijan Simanjuntak, M.Pd","balijan.simanjuntak,.m.pd@itera.ac.id",+62-22-536-9743,Dosen,Tidak Aktif
+720,Lidya Prasetyo,lidya.prasetyo@itera.ac.id,+62 (0355) 945 7322,Mahasiswa,Tidak Aktif
+721,Kamila Winarno,kamila.winarno@itera.ac.id,(0713) 606 8751,Mahasiswa,Aktif
+722,"Hj. Farah Dabukke, S.E.I","hj..farah.dabukke,.s.e.i@itera.ac.id",+62-09-347-7056,Karyawan,Aktif
+723,Makara Widodo,makara.widodo@itera.ac.id,(0692) 160 2043,Dosen,Aktif
+724,"Tantri Aryani, M.Kom.","tantri.aryani,.m.kom.@itera.ac.id",+62 (0459) 755-5645,Mahasiswa,Aktif
+725,Ella Prastuti,ella.prastuti@itera.ac.id,+62 (024) 375 6921,Karyawan,Tidak Aktif
+726,"Sutan Estiawan Mandasari, M.Pd","sutan.estiawan.mandasari,.m.pd@itera.ac.id",+62 (030) 096-4505,Karyawan,Aktif
+727,"Pangestu Sihombing, S.Pt","pangestu.sihombing,.s.pt@itera.ac.id",+62 (84) 794 3036,Mahasiswa,Aktif
+728,R.A. Nova Hidayat,r.a..nova.hidayat@itera.ac.id,+62 (099) 439-6702,Karyawan,Aktif
+729,Uda Andriani,uda.andriani@itera.ac.id,+62-064-699-1165,Dosen,Tidak Aktif
+730,Asman Aryani,asman.aryani@itera.ac.id,(025) 230-0134,Dosen,Aktif
+731,Bagus Natsir,bagus.natsir@itera.ac.id,(075) 981-6707,Mahasiswa,Tidak Aktif
+732,Azalea Suwarno,azalea.suwarno@itera.ac.id,+62 (042) 378-9256,Karyawan,Aktif
+733,Elisa Wibowo,elisa.wibowo@itera.ac.id,(0933) 370-3537,Mahasiswa,Aktif
+734,"Galur Sihombing, S.Kom","galur.sihombing,.s.kom@itera.ac.id",(070) 869 5743,Karyawan,Tidak Aktif
+735,Endra Hasanah,endra.hasanah@itera.ac.id,+62 (0193) 318 3726,Karyawan,Tidak Aktif
+736,Fathonah Hastuti,fathonah.hastuti@itera.ac.id,+62 (090) 060 5786,Karyawan,Aktif
+737,Candrakanta Agustina,candrakanta.agustina@itera.ac.id,+62 (698) 928-8341,Dosen,Tidak Aktif
+738,"Drs. Adikara Nainggolan, S.Gz","drs..adikara.nainggolan,.s.gz@itera.ac.id",081 442 2652,Mahasiswa,Aktif
+739,"H. Hasta Dongoran, S.Gz","h..hasta.dongoran,.s.gz@itera.ac.id",081 615 1314,Mahasiswa,Tidak Aktif
+740,Ulva Nuraini,ulva.nuraini@itera.ac.id,+62 (716) 578-2130,Karyawan,Tidak Aktif
+741,"Asmuni Habibi, S.Pd","asmuni.habibi,.s.pd@itera.ac.id",088 831 1826,Karyawan,Tidak Aktif
+742,Nilam Tamba,nilam.tamba@itera.ac.id,085 700 9775,Mahasiswa,Aktif
+743,Radika Yolanda,radika.yolanda@itera.ac.id,+62-473-549-5310,Dosen,Tidak Aktif
+744,Tantri Sihotang,tantri.sihotang@itera.ac.id,(0422) 449-8958,Karyawan,Tidak Aktif
+745,"H. Anom Wasita, S.E.","h..anom.wasita,.s.e.@itera.ac.id",(0552) 627-4099,Dosen,Tidak Aktif
+746,"R. Martaka Kusumo, M.Pd","r..martaka.kusumo,.m.pd@itera.ac.id",+62-62-173-8353,Mahasiswa,Tidak Aktif
+747,Hesti Sinaga,hesti.sinaga@itera.ac.id,(0241) 317 5076,Mahasiswa,Tidak Aktif
+748,Jasmani Maryadi,jasmani.maryadi@itera.ac.id,+62-356-710-5433,Karyawan,Aktif
+749,"Ir. Pandu Hartati, S.Sos","ir..pandu.hartati,.s.sos@itera.ac.id",+62-94-351-4704,Karyawan,Tidak Aktif
+750,Balapati Puspasari,balapati.puspasari@itera.ac.id,+62 (0588) 577-5711,Karyawan,Tidak Aktif
+751,drg. Wirda Kusumo,drg..wirda.kusumo@itera.ac.id,081 180 9253,Karyawan,Aktif
+752,Virman Prasasta,virman.prasasta@itera.ac.id,+62 (0341) 318 3082,Dosen,Tidak Aktif
+753,"Johan Purnawati, M.M.","johan.purnawati,.m.m.@itera.ac.id",+62 (0920) 152-1015,Mahasiswa,Tidak Aktif
+754,Tgk. Nilam Usamah,tgk..nilam.usamah@itera.ac.id,+62 (844) 292-4329,Dosen,Aktif
+755,Tgk. Rini Nashiruddin,tgk..rini.nashiruddin@itera.ac.id,+62-088-163-2420,Karyawan,Aktif
+756,Puti Ika Prasetya,puti.ika.prasetya@itera.ac.id,+62 (093) 116 2115,Karyawan,Aktif
+757,"R. Julia Aryani, M.M.","r..julia.aryani,.m.m.@itera.ac.id",+62 (0710) 980-3711,Dosen,Aktif
+758,Chandra Puspasari,chandra.puspasari@itera.ac.id,+62 (036) 127 0958,Karyawan,Aktif
+759,Elvina Nuraini,elvina.nuraini@itera.ac.id,+62-022-719-3408,Mahasiswa,Aktif
+760,Emin Winarsih,emin.winarsih@itera.ac.id,+62 (830) 926 5854,Dosen,Tidak Aktif
+761,Lidya Gunarto,lidya.gunarto@itera.ac.id,+62 (088) 355 8000,Mahasiswa,Tidak Aktif
+762,Betania Usada,betania.usada@itera.ac.id,+62 (009) 366 9901,Dosen,Tidak Aktif
+763,Omar Budiman,omar.budiman@itera.ac.id,+62 (0626) 262 2755,Dosen,Aktif
+764,"H. Karna Lazuardi, S.Pt","h..karna.lazuardi,.s.pt@itera.ac.id",+62 (42) 920 4797,Karyawan,Tidak Aktif
+765,Martani Wijaya,martani.wijaya@itera.ac.id,+62 (610) 288 9137,Mahasiswa,Aktif
+766,"Tgk. Ridwan Uyainah, S.IP","tgk..ridwan.uyainah,.s.ip@itera.ac.id",+62 (0649) 826-8223,Karyawan,Aktif
+767,"Paramita Santoso, M.M.","paramita.santoso,.m.m.@itera.ac.id",+62 (010) 478 5043,Karyawan,Aktif
+768,Sutan Gantar Saefullah,sutan.gantar.saefullah@itera.ac.id,0884682804,Dosen,Aktif
+769,"dr. Hana Tampubolon, S.Pt","dr..hana.tampubolon,.s.pt@itera.ac.id",+62 (0469) 834 5617,Dosen,Tidak Aktif
+770,Galuh Nasyiah,galuh.nasyiah@itera.ac.id,+62 (064) 392 4908,Mahasiswa,Aktif
+771,Puti Zamira Mulyani,puti.zamira.mulyani@itera.ac.id,+62-0393-579-4131,Mahasiswa,Tidak Aktif
+772,Kayla Fujiati,kayla.fujiati@itera.ac.id,+62 (000) 876-4175,Dosen,Tidak Aktif
+773,Febi Mangunsong,febi.mangunsong@itera.ac.id,+62 (42) 255 8698,Mahasiswa,Aktif
+774,"Galar Ardianto, S.IP","galar.ardianto,.s.ip@itera.ac.id",(0656) 595-2779,Mahasiswa,Tidak Aktif
+775,"Bambang Setiawan, M.Kom.","bambang.setiawan,.m.kom.@itera.ac.id",+62-048-842-7557,Dosen,Aktif
+776,Qori Astuti,qori.astuti@itera.ac.id,+62 (307) 038 2628,Karyawan,Tidak Aktif
+777,Edison Sihombing,edison.sihombing@itera.ac.id,+62 (096) 496-8793,Dosen,Aktif
+778,"Padmi Manullang, S.Ked","padmi.manullang,.s.ked@itera.ac.id",(0856) 608 8612,Karyawan,Aktif
+779,Prasetya Setiawan,prasetya.setiawan@itera.ac.id,(012) 908-3506,Karyawan,Aktif
+780,Tami Kuswandari,tami.kuswandari@itera.ac.id,+62 (18) 888 0356,Mahasiswa,Aktif
+781,"Waluyo Suryatmi, M.Kom.","waluyo.suryatmi,.m.kom.@itera.ac.id",+62-0418-030-8618,Mahasiswa,Aktif
+782,Puput Melani,puput.melani@itera.ac.id,+62 (57) 967 9803,Mahasiswa,Tidak Aktif
+783,Safina Wijaya,safina.wijaya@itera.ac.id,(0366) 325 6244,Dosen,Aktif
+784,Ana Saputra,ana.saputra@itera.ac.id,+62 (0896) 296 8597,Mahasiswa,Aktif
+785,Nilam Suartini,nilam.suartini@itera.ac.id,+62-008-290-5950,Dosen,Tidak Aktif
+786,Ian Najmudin,ian.najmudin@itera.ac.id,+62-38-627-6875,Dosen,Aktif
+787,Ifa Simanjuntak,ifa.simanjuntak@itera.ac.id,+62 (0186) 750 8830,Dosen,Tidak Aktif
+788,R.M. Nardi Lestari,r.m..nardi.lestari@itera.ac.id,+62-028-802-2010,Karyawan,Tidak Aktif
+789,Mala Habibi,mala.habibi@itera.ac.id,+62-370-668-9502,Mahasiswa,Tidak Aktif
+790,"Amelia Melani, S.Sos","amelia.melani,.s.sos@itera.ac.id",(095) 185 3084,Karyawan,Tidak Aktif
+791,Suci Waskita,suci.waskita@itera.ac.id,+62 (060) 036 9330,Dosen,Tidak Aktif
+792,Drs. Fitria Hutapea,drs..fitria.hutapea@itera.ac.id,(019) 670 3763,Dosen,Aktif
+793,Ani Mandala,ani.mandala@itera.ac.id,0872910499,Karyawan,Tidak Aktif
+794,Humaira Wulandari,humaira.wulandari@itera.ac.id,+62 (082) 890-5223,Karyawan,Aktif
+795,Bakda Prayoga,bakda.prayoga@itera.ac.id,(066) 176 4456,Dosen,Tidak Aktif
+796,Novi Kurniawan,novi.kurniawan@itera.ac.id,+62 (54) 872-1964,Karyawan,Tidak Aktif
+797,"Ir. Damu Hardiansyah, S.Ked","ir..damu.hardiansyah,.s.ked@itera.ac.id",(034) 556-9713,Dosen,Tidak Aktif
+798,Kamila Padmasari,kamila.padmasari@itera.ac.id,(048) 116 2135,Karyawan,Aktif
+799,Dipa Zulaika,dipa.zulaika@itera.ac.id,+62 (053) 974-6902,Karyawan,Tidak Aktif
+800,"R.A. Lintang Januar, S.Psi","r.a..lintang.januar,.s.psi@itera.ac.id",(009) 982-0157,Dosen,Tidak Aktif
+801,Gadang Budiman,gadang.budiman@itera.ac.id,(0141) 727-4149,Karyawan,Aktif
+802,"Karimah Widiastuti, M.Pd","karimah.widiastuti,.m.pd@itera.ac.id",+62 (51) 596-7181,Dosen,Tidak Aktif
+803,Radit Sudiati,radit.sudiati@itera.ac.id,+62-079-438-2381,Dosen,Aktif
+804,Ghaliyati Prastuti,ghaliyati.prastuti@itera.ac.id,+62 (0441) 141 9648,Mahasiswa,Tidak Aktif
+805,"Kamila Wastuti, M.TI.","kamila.wastuti,.m.ti.@itera.ac.id",+62 (44) 407-7667,Mahasiswa,Tidak Aktif
+806,"Nadia Adriansyah, S.I.Kom","nadia.adriansyah,.s.i.kom@itera.ac.id",086 933 5972,Mahasiswa,Aktif
+807,Anom Nugroho,anom.nugroho@itera.ac.id,(006) 270-6228,Dosen,Aktif
+808,"Gading Maryati, S.Pd","gading.maryati,.s.pd@itera.ac.id",+62 (084) 600-4414,Mahasiswa,Tidak Aktif
+809,Puspa Wibowo,puspa.wibowo@itera.ac.id,+62-57-531-6960,Dosen,Aktif
+810,"Kunthara Gunarto, S.Pd","kunthara.gunarto,.s.pd@itera.ac.id",(0341) 163-4061,Dosen,Tidak Aktif
+811,Cornelia Putra,cornelia.putra@itera.ac.id,+62 (281) 236 9884,Dosen,Aktif
+812,Irma Maryadi,irma.maryadi@itera.ac.id,+62 (204) 558 9654,Karyawan,Aktif
+813,R. Kania Pratiwi,r..kania.pratiwi@itera.ac.id,084 035 9577,Mahasiswa,Tidak Aktif
+814,R.A. Zulfa Pranowo,r.a..zulfa.pranowo@itera.ac.id,0819227281,Dosen,Aktif
+815,Zaenab Budiyanto,zaenab.budiyanto@itera.ac.id,+62-055-023-5874,Dosen,Tidak Aktif
+816,"drg. Edward Winarno, M.M.","drg..edward.winarno,.m.m.@itera.ac.id",(024) 794-4801,Dosen,Aktif
+817,Viman Suwarno,viman.suwarno@itera.ac.id,+62-947-559-6519,Mahasiswa,Aktif
+818,R.M. Marsito Simanjuntak,r.m..marsito.simanjuntak@itera.ac.id,(0280) 457 6460,Mahasiswa,Aktif
+819,Kenari Rajasa,kenari.rajasa@itera.ac.id,+62 (0794) 766 0247,Karyawan,Aktif
+820,Jamal Nashiruddin,jamal.nashiruddin@itera.ac.id,0854141607,Karyawan,Tidak Aktif
+821,Asirwada Laksita,asirwada.laksita@itera.ac.id,086 200 8645,Mahasiswa,Tidak Aktif
+822,Bakijan Hakim,bakijan.hakim@itera.ac.id,+62 (086) 542 5792,Mahasiswa,Aktif
+823,Dr. Ana Hassanah,dr..ana.hassanah@itera.ac.id,+62 (093) 640 4788,Mahasiswa,Tidak Aktif
+824,"Vanesa Safitri, S.Pt","vanesa.safitri,.s.pt@itera.ac.id",+62 (0015) 863 9210,Karyawan,Tidak Aktif
+825,"Kemal Nainggolan, S.H.","kemal.nainggolan,.s.h.@itera.ac.id",+62 (528) 879 3212,Mahasiswa,Tidak Aktif
+826,Bahuraksa Hardiansyah,bahuraksa.hardiansyah@itera.ac.id,+62 (072) 921-8016,Karyawan,Aktif
+827,drg. Paulin Sitorus,drg..paulin.sitorus@itera.ac.id,0882252041,Karyawan,Aktif
+828,Dr. Uchita Yuniar,dr..uchita.yuniar@itera.ac.id,+62-029-815-5389,Karyawan,Aktif
+829,Dr. Juli Yolanda,dr..juli.yolanda@itera.ac.id,+62 (98) 145-7655,Karyawan,Tidak Aktif
+830,Wisnu Nababan,wisnu.nababan@itera.ac.id,+62 (014) 689-9310,Mahasiswa,Aktif
+831,Raihan Saefullah,raihan.saefullah@itera.ac.id,(0322) 240 8130,Karyawan,Aktif
+832,Padmi Winarno,padmi.winarno@itera.ac.id,+62 (88) 616 3766,Mahasiswa,Aktif
+833,Yono Zulaika,yono.zulaika@itera.ac.id,+62-07-782-3266,Dosen,Tidak Aktif
+834,Azalea Suryono,azalea.suryono@itera.ac.id,+62 (14) 799 3708,Dosen,Aktif
+835,Ir. Kani Saefullah,ir..kani.saefullah@itera.ac.id,+62 (24) 816-8490,Mahasiswa,Aktif
+836,dr. Tirta Nugroho,dr..tirta.nugroho@itera.ac.id,+62 (019) 332 1968,Karyawan,Aktif
+837,Cakrabirawa Nuraini,cakrabirawa.nuraini@itera.ac.id,+62 (344) 588-1517,Karyawan,Aktif
+838,"Syahrini Waluyo, M.Farm","syahrini.waluyo,.m.farm@itera.ac.id",+62 (052) 760 8020,Dosen,Aktif
+839,"Maria Wijayanti, M.TI.","maria.wijayanti,.m.ti.@itera.ac.id",(005) 511 2339,Dosen,Tidak Aktif
+840,Gangsa Lestari,gangsa.lestari@itera.ac.id,+62 (026) 213 1259,Dosen,Tidak Aktif
+841,Faizah Prasasta,faizah.prasasta@itera.ac.id,+62-19-548-9108,Dosen,Tidak Aktif
+842,T. Hasta Hartati,t..hasta.hartati@itera.ac.id,0885080494,Karyawan,Aktif
+843,Zelda Suryatmi,zelda.suryatmi@itera.ac.id,085 007 2507,Dosen,Aktif
+844,Shania Mustofa,shania.mustofa@itera.ac.id,+62-079-534-5397,Dosen,Tidak Aktif
+845,Calista Marpaung,calista.marpaung@itera.ac.id,+62-57-735-9051,Karyawan,Aktif
+846,"Juli Mulyani, S.Pd","juli.mulyani,.s.pd@itera.ac.id",+62-0086-040-7085,Karyawan,Aktif
+847,drg. Cahyadi Susanti,drg..cahyadi.susanti@itera.ac.id,(0212) 979-2935,Mahasiswa,Aktif
+848,Unggul Pradana,unggul.pradana@itera.ac.id,(0014) 494 3492,Dosen,Tidak Aktif
+849,Vero Habibi,vero.habibi@itera.ac.id,+62 (058) 007-3871,Dosen,Aktif
+850,"Ciaobella Hakim, M.TI.","ciaobella.hakim,.m.ti.@itera.ac.id",+62 (755) 608 3984,Mahasiswa,Aktif
+851,Kemba Sitompul,kemba.sitompul@itera.ac.id,+62 (644) 946-8864,Mahasiswa,Tidak Aktif
+852,Puspa Ramadan,puspa.ramadan@itera.ac.id,+62-077-600-6474,Karyawan,Aktif
+853,Rina Natsir,rina.natsir@itera.ac.id,+62 (088) 488-4166,Mahasiswa,Aktif
+854,Cut Uli Wibowo,cut.uli.wibowo@itera.ac.id,+62-0343-902-1287,Mahasiswa,Aktif
+855,Jelita Iswahyudi,jelita.iswahyudi@itera.ac.id,+62 (007) 625 8536,Karyawan,Aktif
+856,Atmaja Wasita,atmaja.wasita@itera.ac.id,(074) 702 4501,Dosen,Tidak Aktif
+857,"R. Makara Maryati, S.Ked","r..makara.maryati,.s.ked@itera.ac.id",(0071) 431-0343,Mahasiswa,Aktif
+858,"Sutan Bahuwarna Simanjuntak, M.Pd","sutan.bahuwarna.simanjuntak,.m.pd@itera.ac.id",+62 (40) 603-7635,Dosen,Tidak Aktif
+859,"Tgk. Alambana Andriani, S.T.","tgk..alambana.andriani,.s.t.@itera.ac.id",+62 (98) 481-0232,Karyawan,Tidak Aktif
+860,"Lamar Saputra, S.E.","lamar.saputra,.s.e.@itera.ac.id",083 839 5827,Dosen,Aktif
+861,Puput Haryanto,puput.haryanto@itera.ac.id,0881938320,Karyawan,Aktif
+862,Jaya Saragih,jaya.saragih@itera.ac.id,+62-0149-318-0876,Karyawan,Aktif
+863,Dimas Hidayat,dimas.hidayat@itera.ac.id,+62-17-231-2110,Karyawan,Aktif
+864,Ida Yulianti,ida.yulianti@itera.ac.id,+62 (968) 844 2349,Mahasiswa,Tidak Aktif
+865,Lantar Siregar,lantar.siregar@itera.ac.id,(0754) 099-7074,Mahasiswa,Tidak Aktif
+866,Gamanto Hariyah,gamanto.hariyah@itera.ac.id,+62-364-494-2128,Karyawan,Tidak Aktif
+867,Banara Salahudin,banara.salahudin@itera.ac.id,+62 (84) 708 7776,Dosen,Tidak Aktif
+868,Yono Setiawan,yono.setiawan@itera.ac.id,(034) 070 1764,Mahasiswa,Tidak Aktif
+869,"Cawisono Utama, M.M.","cawisono.utama,.m.m.@itera.ac.id",+62 (0333) 925-6663,Karyawan,Aktif
+870,Ratih Siregar,ratih.siregar@itera.ac.id,+62 (081) 459 1961,Karyawan,Aktif
+871,"Cut Tina Salahudin, S.IP","cut.tina.salahudin,.s.ip@itera.ac.id",+62 (179) 529 5575,Dosen,Tidak Aktif
+872,Septi Suryatmi,septi.suryatmi@itera.ac.id,+62 (412) 121-6392,Mahasiswa,Tidak Aktif
+873,"Luthfi Latupono, S.Pt","luthfi.latupono,.s.pt@itera.ac.id",(0487) 950 4390,Dosen,Aktif
+874,Devi Kurniawan,devi.kurniawan@itera.ac.id,+62 (54) 757-9105,Dosen,Tidak Aktif
+875,Mustika Nainggolan,mustika.nainggolan@itera.ac.id,+62 (0191) 569-8765,Mahasiswa,Aktif
+876,Garang Fujiati,garang.fujiati@itera.ac.id,+62 (042) 210-5548,Dosen,Aktif
+877,Eli Setiawan,eli.setiawan@itera.ac.id,(051) 268-3353,Dosen,Aktif
+878,"Cakrawala Maryati, S.T.","cakrawala.maryati,.s.t.@itera.ac.id",+62-711-284-3512,Karyawan,Tidak Aktif
+879,Vicky Haryanti,vicky.haryanti@itera.ac.id,+62 (77) 393 2481,Mahasiswa,Aktif
+880,Taufik Ardianto,taufik.ardianto@itera.ac.id,+62 (069) 406 7386,Dosen,Aktif
+881,"Ellis Iswahyudi, S.Farm","ellis.iswahyudi,.s.farm@itera.ac.id",+62 (124) 842 1135,Mahasiswa,Tidak Aktif
+882,"R. Niyaga Halimah, S.H.","r..niyaga.halimah,.s.h.@itera.ac.id",(036) 118-8600,Karyawan,Tidak Aktif
+883,Victoria Saefullah,victoria.saefullah@itera.ac.id,0846032772,Dosen,Aktif
+884,Irwan Hartati,irwan.hartati@itera.ac.id,+62 (641) 317-5184,Dosen,Aktif
+885,Hasna Oktaviani,hasna.oktaviani@itera.ac.id,+62 (003) 995-9991,Dosen,Tidak Aktif
+886,Cici Wibisono,cici.wibisono@itera.ac.id,+62 (0913) 222-3448,Dosen,Aktif
+887,"Harjasa Wahyudin, M.Pd","harjasa.wahyudin,.m.pd@itera.ac.id",(027) 638 6313,Karyawan,Aktif
+888,Kani Palastri,kani.palastri@itera.ac.id,+62 (0575) 277-1543,Mahasiswa,Tidak Aktif
+889,Drajat Sihombing,drajat.sihombing@itera.ac.id,083 127 2457,Mahasiswa,Tidak Aktif
+890,"Dr. Yuni Simanjuntak, S.Farm","dr..yuni.simanjuntak,.s.farm@itera.ac.id",+62-0588-500-7241,Dosen,Aktif
+891,"Rahayu Marbun, M.Kom.","rahayu.marbun,.m.kom.@itera.ac.id",+62 (436) 156 3679,Karyawan,Tidak Aktif
+892,Mulyono Widiastuti,mulyono.widiastuti@itera.ac.id,(003) 642 8183,Mahasiswa,Tidak Aktif
+893,"Rafid Prayoga, S.E.I","rafid.prayoga,.s.e.i@itera.ac.id",+62-92-534-3015,Dosen,Tidak Aktif
+894,Jaka Maryadi,jaka.maryadi@itera.ac.id,+62-095-829-6580,Dosen,Tidak Aktif
+895,Cornelia Sitorus,cornelia.sitorus@itera.ac.id,+62 (070) 340 8764,Mahasiswa,Aktif
+896,Bahuwirya Waluyo,bahuwirya.waluyo@itera.ac.id,+62 (39) 454-8044,Karyawan,Aktif
+897,Uchita Wasita,uchita.wasita@itera.ac.id,+62 (67) 928 6408,Karyawan,Aktif
+898,R.M. Jamil Nainggolan,r.m..jamil.nainggolan@itera.ac.id,+62-335-797-2519,Dosen,Tidak Aktif
+899,Dt. Makara Susanti,dt..makara.susanti@itera.ac.id,+62-008-999-3525,Dosen,Tidak Aktif
+900,Utama Sudiati,utama.sudiati@itera.ac.id,+62 (0485) 497 8065,Mahasiswa,Aktif
+901,"drg. Kamila Wasita, S.Gz","drg..kamila.wasita,.s.gz@itera.ac.id",+62 (245) 045 6039,Karyawan,Tidak Aktif
+902,"Drs. Sadina Kuswoyo, S.T.","drs..sadina.kuswoyo,.s.t.@itera.ac.id",+62 (0782) 828 8702,Mahasiswa,Aktif
+903,"Tgk. Violet Permadi, S.Ked","tgk..violet.permadi,.s.ked@itera.ac.id",+62-0107-986-0609,Mahasiswa,Aktif
+904,"Eka Agustina, M.M.","eka.agustina,.m.m.@itera.ac.id",+62-111-995-5023,Mahasiswa,Tidak Aktif
+905,Siti Anggraini,siti.anggraini@itera.ac.id,+62 (46) 662-0287,Karyawan,Aktif
+906,drg. Lukita Prasetya,drg..lukita.prasetya@itera.ac.id,+62 (008) 512-4942,Karyawan,Tidak Aktif
+907,Oliva Puspasari,oliva.puspasari@itera.ac.id,088 461 5828,Mahasiswa,Tidak Aktif
+908,Maya Nuraini,maya.nuraini@itera.ac.id,+62-42-354-3395,Karyawan,Aktif
+909,dr. Farhunnisa Simanjuntak,dr..farhunnisa.simanjuntak@itera.ac.id,+62 (57) 571-3661,Mahasiswa,Tidak Aktif
+910,Ghani Hidayanto,ghani.hidayanto@itera.ac.id,+62 (0201) 875-5979,Karyawan,Tidak Aktif
+911,Siti Pradipta,siti.pradipta@itera.ac.id,+62-30-837-6912,Karyawan,Aktif
+912,Kemba Lailasari,kemba.lailasari@itera.ac.id,080 068 8409,Dosen,Aktif
+913,Manah Nasyiah,manah.nasyiah@itera.ac.id,+62 (344) 646 1611,Mahasiswa,Tidak Aktif
+914,Rahmat Wahyudin,rahmat.wahyudin@itera.ac.id,+62 (468) 398 6652,Dosen,Aktif
+915,Oman Uwais,oman.uwais@itera.ac.id,(0144) 842 0233,Mahasiswa,Aktif
+916,Daniswara Uyainah,daniswara.uyainah@itera.ac.id,0858313444,Karyawan,Tidak Aktif
+917,Samiah Siregar,samiah.siregar@itera.ac.id,(049) 681-5447,Mahasiswa,Tidak Aktif
+918,Sabri Laksita,sabri.laksita@itera.ac.id,(0431) 431 0304,Dosen,Aktif
+919,Drs. Gading Wahyuni,drs..gading.wahyuni@itera.ac.id,0876120012,Mahasiswa,Aktif
+920,Indra Usada,indra.usada@itera.ac.id,+62 (203) 160-6788,Karyawan,Aktif
+921,"Ifa Melani, S.Sos","ifa.melani,.s.sos@itera.ac.id",+62 (187) 347-0775,Mahasiswa,Tidak Aktif
+922,"Ivan Safitri, S.T.","ivan.safitri,.s.t.@itera.ac.id",+62 (654) 360-9758,Karyawan,Tidak Aktif
+923,"drg. Mutia Wijaya, S.IP","drg..mutia.wijaya,.s.ip@itera.ac.id",+62 (0589) 542 0251,Karyawan,Tidak Aktif
+924,Tgk. Asmadi Samosir,tgk..asmadi.samosir@itera.ac.id,(0658) 059 6987,Karyawan,Aktif
+925,Dimas Sitorus,dimas.sitorus@itera.ac.id,+62 (90) 569 6134,Dosen,Tidak Aktif
+926,Drs. Puspa Firgantoro,drs..puspa.firgantoro@itera.ac.id,+62-0891-409-0837,Karyawan,Tidak Aktif
+927,"Nabila Setiawan, S.Pt","nabila.setiawan,.s.pt@itera.ac.id",(002) 037-6678,Karyawan,Tidak Aktif
+928,Salman Laksita,salman.laksita@itera.ac.id,+62-58-579-0830,Dosen,Tidak Aktif
+929,Agnes Yolanda,agnes.yolanda@itera.ac.id,(0631) 392 7011,Dosen,Tidak Aktif
+930,Hj. Paris Widiastuti,hj..paris.widiastuti@itera.ac.id,+62 (01) 745-2482,Mahasiswa,Aktif
+931,Tirtayasa Suwarno,tirtayasa.suwarno@itera.ac.id,+62-185-697-2113,Dosen,Tidak Aktif
+932,Kacung Santoso,kacung.santoso@itera.ac.id,+62-36-829-4930,Mahasiswa,Aktif
+933,Belinda Pratama,belinda.pratama@itera.ac.id,0872303620,Mahasiswa,Tidak Aktif
+934,Samiah Melani,samiah.melani@itera.ac.id,+62 (360) 334 8080,Karyawan,Tidak Aktif
+935,Ajimat Anggriawan,ajimat.anggriawan@itera.ac.id,(075) 587 5881,Mahasiswa,Tidak Aktif
+936,"Kenes Waluyo, S.H.","kenes.waluyo,.s.h.@itera.ac.id",(0160) 547 3065,Mahasiswa,Tidak Aktif
+937,"Cut Putri Purwanti, S.I.Kom","cut.putri.purwanti,.s.i.kom@itera.ac.id",+62 (061) 105 4911,Dosen,Aktif
+938,Banawa Salahudin,banawa.salahudin@itera.ac.id,(0339) 823-0601,Karyawan,Aktif
+939,Dimas Laksmiwati,dimas.laksmiwati@itera.ac.id,087 577 0542,Mahasiswa,Aktif
+940,Irsad Andriani,irsad.andriani@itera.ac.id,(019) 735 8472,Mahasiswa,Aktif
+941,"dr. Zelda Mahendra, S.IP","dr..zelda.mahendra,.s.ip@itera.ac.id",0809909832,Dosen,Tidak Aktif
+942,Koko Kusmawati,koko.kusmawati@itera.ac.id,+62 (075) 291-3013,Karyawan,Tidak Aktif
+943,Irsad Hartati,irsad.hartati@itera.ac.id,+62 (086) 251 4514,Dosen,Tidak Aktif
+944,Hendri Pratama,hendri.pratama@itera.ac.id,+62 (217) 891-4322,Mahasiswa,Tidak Aktif
+945,Panca Januar,panca.januar@itera.ac.id,(047) 606 1161,Mahasiswa,Aktif
+946,"Hj. Ayu Hidayanto, S.Pd","hj..ayu.hidayanto,.s.pd@itera.ac.id",+62 (028) 729-2904,Karyawan,Aktif
+947,Ir. Cawuk Sinaga,ir..cawuk.sinaga@itera.ac.id,0848226408,Karyawan,Tidak Aktif
+948,"T. Harjasa Waluyo, M.Farm","t..harjasa.waluyo,.m.farm@itera.ac.id",+62 (0860) 732 4565,Karyawan,Tidak Aktif
+949,"Gawati Kuswoyo, S.E.I","gawati.kuswoyo,.s.e.i@itera.ac.id",+62 (672) 143 4049,Karyawan,Tidak Aktif
+950,Laras Hutagalung,laras.hutagalung@itera.ac.id,+62-040-786-8265,Dosen,Aktif
+951,"drg. Sakti Halimah, S.Sos","drg..sakti.halimah,.s.sos@itera.ac.id",087 095 0916,Dosen,Tidak Aktif
+952,Jamil Halimah,jamil.halimah@itera.ac.id,(0889) 716 4246,Karyawan,Aktif
+953,Dr. Kenari Salahudin,dr..kenari.salahudin@itera.ac.id,+62 (088) 048 6306,Karyawan,Tidak Aktif
+954,Kartika Yulianti,kartika.yulianti@itera.ac.id,+62 (067) 350 2490,Karyawan,Aktif
+955,Dadap Rahimah,dadap.rahimah@itera.ac.id,(0672) 209-6064,Dosen,Tidak Aktif
+956,Yulia Rajasa,yulia.rajasa@itera.ac.id,+62 (072) 693 2554,Karyawan,Aktif
+957,Drs. Gabriella Habibi,drs..gabriella.habibi@itera.ac.id,+62 (15) 237 6863,Dosen,Tidak Aktif
+958,Lega Pertiwi,lega.pertiwi@itera.ac.id,086 577 3435,Mahasiswa,Tidak Aktif
+959,Cut Ani Nugroho,cut.ani.nugroho@itera.ac.id,+62-0144-316-1077,Mahasiswa,Tidak Aktif
+960,Dwi Sitompul,dwi.sitompul@itera.ac.id,080 578 8709,Dosen,Tidak Aktif
+961,Kartika Marpaung,kartika.marpaung@itera.ac.id,+62 (081) 688-4254,Dosen,Tidak Aktif
+962,"Drs. Taswir Nuraini, S.Farm","drs..taswir.nuraini,.s.farm@itera.ac.id",+62-0389-380-1932,Dosen,Tidak Aktif
+963,Chandra Thamrin,chandra.thamrin@itera.ac.id,0811944347,Dosen,Tidak Aktif
+964,Sutan Ihsan Suwarno,sutan.ihsan.suwarno@itera.ac.id,(0048) 048-6182,Karyawan,Tidak Aktif
+965,"Hadi Farida, S.Farm","hadi.farida,.s.farm@itera.ac.id",(075) 501 2246,Karyawan,Tidak Aktif
+966,drg. Asmadi Yuliarti,drg..asmadi.yuliarti@itera.ac.id,083 631 3803,Karyawan,Tidak Aktif
+967,Dt. Cagak Nashiruddin,dt..cagak.nashiruddin@itera.ac.id,(0590) 595 1852,Mahasiswa,Aktif
+968,Dr. Balidin Anggriawan,dr..balidin.anggriawan@itera.ac.id,+62-997-050-8033,Mahasiswa,Tidak Aktif
+969,Teddy Kusumo,teddy.kusumo@itera.ac.id,(0486) 958-1092,Mahasiswa,Tidak Aktif
+970,Sabar Haryanti,sabar.haryanti@itera.ac.id,+62 (566) 459 8241,Karyawan,Aktif
+971,Wardaya Dabukke,wardaya.dabukke@itera.ac.id,+62 (123) 747 7611,Mahasiswa,Tidak Aktif
+972,Rina Pradipta,rina.pradipta@itera.ac.id,+62 (0487) 755 8790,Mahasiswa,Aktif
+973,R. Icha Prastuti,r..icha.prastuti@itera.ac.id,(053) 898 7430,Dosen,Aktif
+974,Taufan Sudiati,taufan.sudiati@itera.ac.id,+62-57-162-8602,Mahasiswa,Aktif
+975,Ajimin Habibi,ajimin.habibi@itera.ac.id,+62-0841-251-1119,Mahasiswa,Tidak Aktif
+976,Dt. Jono Wahyudin,dt..jono.wahyudin@itera.ac.id,+62 (097) 687 3873,Dosen,Aktif
+977,Damu Januar,damu.januar@itera.ac.id,+62-0785-634-9445,Dosen,Aktif
+978,Catur Hidayat,catur.hidayat@itera.ac.id,+62-044-347-7404,Mahasiswa,Tidak Aktif
+979,Hardi Maryadi,hardi.maryadi@itera.ac.id,(0390) 611 8419,Dosen,Tidak Aktif
+980,drg. Iriana Suryono,drg..iriana.suryono@itera.ac.id,+62-96-282-2140,Karyawan,Aktif
+981,"Dr. Satya Hidayanto, S.E.","dr..satya.hidayanto,.s.e.@itera.ac.id",082 719 0261,Dosen,Tidak Aktif
+982,Diana Wahyuni,diana.wahyuni@itera.ac.id,+62 (39) 209 7079,Karyawan,Tidak Aktif
+983,Gangsa Gunawan,gangsa.gunawan@itera.ac.id,(0307) 633-9033,Dosen,Tidak Aktif
+984,"Wirda Nababan, S.Pd","wirda.nababan,.s.pd@itera.ac.id",+62 (0074) 571 1423,Mahasiswa,Tidak Aktif
+985,"Drs. Diana Nuraini, S.Sos","drs..diana.nuraini,.s.sos@itera.ac.id",+62 (00) 645 9954,Dosen,Aktif
+986,Lalita Marbun,lalita.marbun@itera.ac.id,+62 (95) 052-8949,Karyawan,Tidak Aktif
+987,Kadir Damanik,kadir.damanik@itera.ac.id,+62 (936) 662 1687,Mahasiswa,Tidak Aktif
+988,R. Alika Sudiati,r..alika.sudiati@itera.ac.id,+62 (681) 657 1881,Dosen,Aktif
+989,Laksana Santoso,laksana.santoso@itera.ac.id,+62 (83) 227-5786,Mahasiswa,Tidak Aktif
+990,Jaya Purwanti,jaya.purwanti@itera.ac.id,+62 (034) 585-6926,Karyawan,Tidak Aktif
+991,Argono Wijaya,argono.wijaya@itera.ac.id,+62-74-504-8210,Dosen,Tidak Aktif
+992,Tiara Uyainah,tiara.uyainah@itera.ac.id,+62 (633) 883 4158,Mahasiswa,Aktif
+993,Hani Pradana,hani.pradana@itera.ac.id,(0994) 995 6627,Mahasiswa,Tidak Aktif
+994,"Cahyadi Dabukke, M.Ak","cahyadi.dabukke,.m.ak@itera.ac.id",+62-563-497-9353,Dosen,Aktif
+995,R. Dimaz Wastuti,r..dimaz.wastuti@itera.ac.id,+62 (66) 854-7346,Karyawan,Aktif
+996,"Puti Ami Nasyidah, M.M.","puti.ami.nasyidah,.m.m.@itera.ac.id",+62-03-362-9328,Mahasiswa,Tidak Aktif
+997,Latika Narpati,latika.narpati@itera.ac.id,+62 (015) 918 0898,Dosen,Tidak Aktif
+998,Lala Ramadan,lala.ramadan@itera.ac.id,+62 (058) 866 6677,Karyawan,Aktif
+999,Ian Nasyiah,ian.nasyiah@itera.ac.id,+62 (014) 906-8456,Mahasiswa,Aktif
+1000,"Jabal Prasetya, S.Gz","jabal.prasetya,.s.gz@itera.ac.id",+62-39-981-1776,Karyawan,Aktif
