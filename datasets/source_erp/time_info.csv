@@ -1,4 +1,4 @@
-time_id,date,day,month,year,weekday
+time_id,full_date,day,month,year,weekday
 1,2024-05-20,20,5,2024,Monday
 2,2024-05-21,21,5,2024,Tuesday
 3,2024-05-22,22,5,2024,Wednesday
