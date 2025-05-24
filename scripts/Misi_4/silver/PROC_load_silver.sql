@@ -234,20 +234,6 @@ BEGIN
         SET distance_km = ROUND(distance_km, 2)
         WHERE distance_km IS NOT NULL;
 
-        -- Drop kolom speed_kmh jika ada
-        IF COL_LENGTH('bronze.erp_trip_detail', 'speed_kmh') IS NOT NULL
-        BEGIN
-            ALTER TABLE bronze.erp_trip_detail DROP COLUMN speed_kmh;
-        END;
-
-        ALTER TABLE bronze.erp_trip_detail
-        ADD speed_kmh DECIMAL(10, 2);
-
-        -- Hitung kecepatan
-        UPDATE bronze.erp_trip_detail
-        SET speed_kmh = ROUND(distance_km / (duration_minutes / 60.0), 2)
-        WHERE duration_minutes > 0 AND distance_km IS NOT NULL;
-
         -- Pindahkan ke tabel silver
         TRUNCATE TABLE silver.erp_trip_detail;
 
@@ -260,8 +246,7 @@ BEGIN
             destination_location_id,
             time_id,
             duration_minutes,
-            distance_km,
-            speed_kmh
+            distance_km
         )
         SELECT
             trip_id,
@@ -272,8 +257,7 @@ BEGIN
             destination_location_id,
             time_id,
             duration_minutes,
-            distance_km,
-            speed_kmh
+            distance_km
         FROM bronze.erp_trip_detail
         WHERE trip_id IS NOT NULL
           AND customer_id IS NOT NULL
