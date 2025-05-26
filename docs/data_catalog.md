@@ -1,4 +1,4 @@
-## Data Catalog untuk Gold Layer
+## Data Catalog Pada Gold Layer
 
 Gold Layer merepresentasikan data di tingkat bisnis, yang diatur untuk mendukung kasus penggunaan analitis dan pelaporan. Lapisan ini terdiri dari tabel dimensi dan tabel fakta yang dirancang untuk menangkap metrik bisnis tertentu.
 
