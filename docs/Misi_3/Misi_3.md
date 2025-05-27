@@ -103,7 +103,7 @@ WHERE dt.year_num = 2024 AND dt.month_num = 12
 GROUP BY dt.full_date
 ORDER BY dt.full_date;
 ```
-
+## BAB X
 ### Desain Logikal dan Fisik
 Desain logikal mengubah model konseptual menjadi struktur relasional yang lebih rinci, sementara desain fisik mengoptimalkan performa melalui indeks, penyimpanan, dan partisi.
 
@@ -130,6 +130,7 @@ INCLUDE (trip_id, driver_id, duration_minutes, distance_km);
 - Trade-Off:
     - Indeks meningkatkan kecepatan query tetapi memperlambat operasi INSERT/UPDATE karena pemeliharaan indeks.
 
+## BAB XI
 ### Desain storage
 Desain penyimpanan menentukan bagaimana data disimpan secara fisik untuk efisiensi dan performa, seperti yang ditunjukkan dalam file design_storage.sql.
 Strategi Penyimpanan:
